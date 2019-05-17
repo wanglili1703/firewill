@@ -1,0 +1,15 @@
+{
+  "successful": {
+    "user_name": "13501000107",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "purchase_amt": "10",
+    "purchase_day": "M#12",
+    "comment": "工资理财",
+    "card_id": "0000000000106504",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

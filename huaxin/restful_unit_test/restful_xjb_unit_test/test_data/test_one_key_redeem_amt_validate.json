@@ -1,0 +1,34 @@
+{
+  "one_part_redeem": {
+    "user_name": "17200000319",
+    "password": "12qwaszx",
+    "product_id": "899#S20068",
+    "redeem_amt": "100",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "one_all_redeem": {
+    "user_name": "17200000319",
+    "password": "12qwaszx",
+    "product_id": "899#S20068",
+    "redeem_amt": "2000000",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "one_redeem_lower_than_min_hold": {
+    "user_name": "17200000319",
+    "password": "12qwaszx",
+    "product_id": "899#S20068",
+    "redeem_amt": "1980000",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

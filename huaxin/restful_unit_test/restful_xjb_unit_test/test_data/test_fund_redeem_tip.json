@@ -1,0 +1,12 @@
+{
+  "fund_redeem_tip": {
+    "user_name":"17300001120",
+    "password":"12qwaszx",
+    "fund_id":"42#F0001",
+    "redeem_share":"10",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

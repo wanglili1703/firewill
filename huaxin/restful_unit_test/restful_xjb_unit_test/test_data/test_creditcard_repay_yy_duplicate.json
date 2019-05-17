@@ -1,0 +1,13 @@
+{
+  "duplicate_order": {
+    "user_name": "13501000069",
+    "password": "12qwaszx",
+    "amt": "0.01",
+    "image_id": "1",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "109999",
+      "returnMsg": "您不能同时发起多笔预约还款。"
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "successful": {
+    "user_name": "13501000104",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "loan_amt": "10",
+    "loan_purpose": "2",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "less_than_min_loan_amt": {
+    "user_name": "13501000104",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "loan_amt": "1",
+    "loan_purpose": "1",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "013051",
+      "returnMsg": "借款金额要大于最低借款金额10.00元哦"
+    }
+  },
+  "over_prod_quty": {
+    "user_name": "13501000104",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "loan_amt": "900001",
+    "loan_purpose": "1",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "013056",
+      "returnMsg": "借款金额不能超过最高可借金额"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+ "fund_hot_search": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "find_hot_search": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "fit_hot_search": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "fund_hot_search_list": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+    "fund_hot_search_all": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  }
+
+}

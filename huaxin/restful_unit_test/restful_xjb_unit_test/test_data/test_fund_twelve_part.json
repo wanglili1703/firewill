@@ -1,0 +1,10 @@
+{
+  "test_fund_twelve_part": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

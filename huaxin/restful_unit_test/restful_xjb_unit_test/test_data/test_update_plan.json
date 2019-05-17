@@ -1,0 +1,123 @@
+{
+  "pause_plan": {
+    "user_name": "17200000340",
+    "password": "12qwaszx",
+    "repay_plan_id": "23",
+    "status": "P",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "open_plan": {
+    "user_name": "17200000340",
+    "password": "12qwaszx",
+    "repay_plan_id": "23",
+    "status": "N",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "delete_plan": {
+    "user_name": "17200000340",
+    "password": "12qwaszx",
+    "repay_plan_id": "23",
+    "status": "D",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "end_plan": {
+    "user_name": "17200000340",
+    "password": "12qwaszx",
+    "repay_plan_id": "23",
+    "status": "E",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "109999",
+      "returnMsg": "计划操作类型有误"
+    }
+  },
+  "frozen_plan": {
+    "user_name": "17200000340",
+    "password": "12qwaszx",
+    "repay_plan_id": "23",
+    "status": "F",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "109999",
+      "returnMsg": "计划操作类型有误"
+    }
+  },
+  "repay_plan_id_is_null": {
+    "user_name": "17200000340",
+    "password": "12qwaszx",
+    "repay_plan_id": "",
+    "status": "N",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081622",
+      "returnMsg": "还贷计划id不能为空"
+    }
+  },
+  "status_is_null": {
+    "user_name": "17200000340",
+    "password": "12qwaszx",
+    "repay_plan_id": "23",
+    "status": "",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081621",
+      "returnMsg": "还贷类型非法"
+    }
+  },
+  "trade_password_is_null": {
+    "user_name": "17200000340",
+    "password": "12qwaszx",
+    "repay_plan_id": "23",
+    "status": "P",
+    "trade_password": "",
+    "assert_info": {
+      "returnCode": "081504",
+      "returnMsg": "请输入交易密码"
+    }
+  },
+  "trade_password_error": {
+    "user_name": "17200000340",
+    "password": "12qwaszx",
+    "repay_plan_id": "23",
+    "status": "P",
+    "trade_password": "123456",
+    "assert_info": {
+      "returnCode": "030067",
+      "returnMsg": "密码错误次数已达"
+    }
+  },
+  "repay_plan_id_not_match": {
+    "user_name": "17200000340",
+    "password": "12qwaszx",
+    "repay_plan_id": "0000",
+    "status": "P",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "109999",
+      "returnMsg": "还款计划不存在！"
+    }
+  },
+  "repay_plan_id_error": {
+    "user_name": "17200000340",
+    "password": "12qwaszx",
+    "repay_plan_id": "abc",
+    "status": "N",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "080001",
+      "returnMsg": "服务异常"
+    }
+  }
+}

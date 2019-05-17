@@ -1,0 +1,111 @@
+{
+  "my_hold_list_his_fund_2": {
+    "user_name": "15958335480",
+    "password": "12qwaszx",
+    "product_type": "2",
+    "fund_type": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "my_hold_list_his_fund_0": {
+    "user_name": "15958335480",
+    "password": "12qwaszx",
+    "product_type": "2",
+    "fund_type": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "my_hold_list_his_fund_3": {
+    "user_name": "15958335480",
+    "password": "12qwaszx",
+    "product_type": "2",
+    "fund_type": "3",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "my_hold_list_his_fund_1": {
+    "user_name": "17300001186",
+    "password": "12qwaszx",
+    "product_type": "2",
+    "fund_type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "my_hold_list_his_fund_8": {
+    "user_name": "17300001186",
+    "password": "12qwaszx",
+    "product_type": "2",
+    "fund_type": "8",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "my_hold_list_his_dhb": {
+    "user_name": "17300001186",
+    "password": "12qwaszx",
+    "product_type": "1",
+    "fund_type": "99",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+    "my_hold_list_his_vip_0": {
+    "user_name": "13501000102",
+    "password": "12qwaszx",
+    "product_type": "3",
+    "fund_type": "99",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "my_hold_list_his_vip_1": {
+    "user_name": "13501000102",
+    "password": "12qwaszx",
+    "product_type": "3",
+    "fund_type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "my_hold_list_his_vip_2": {
+    "user_name": "13501000050",
+    "password": "12qwaszx",
+    "product_type": "3",
+    "fund_type": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "my_hold_list_his_vip_4": {
+    "user_name": "13501000050",
+    "password": "12qwaszx",
+    "product_type": "3",
+    "fund_type": "4",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

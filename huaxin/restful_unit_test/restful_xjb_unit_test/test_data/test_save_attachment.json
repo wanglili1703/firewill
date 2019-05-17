@@ -1,0 +1,60 @@
+{
+  "3_save": {
+    "user_name": "15627284754",
+    "password": "12qwaszx",
+    "send_type": "",
+    "mobile": "",
+    "type": "3",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "2_save_0": {
+    "user_name": "15627284754",
+    "password": "12qwaszx",
+    "send_type": "0",
+    "mobile": "15627284754",
+    "type": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "2 _save_1": {
+    "user_name": "15627284754",
+    "password": "12qwaszx",
+    "send_type": "1",
+    "mobile": "15627284754",
+    "type": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "1_save": {
+    "user_name": "15627284754",
+    "password": "12qwaszx",
+    "send_type": "",
+    "mobile": "",
+    "type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "4_bindingcard_upload_cert": {
+    "user_name": "15627284754",
+    "password": "12qwaszx",
+    "send_type": "",
+    "mobile": "",
+    "type": "4",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

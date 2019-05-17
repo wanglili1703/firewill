@@ -1,0 +1,33 @@
+{
+   "success": {
+    "user_name": "hxzq",
+    "password": "12qwaszx",
+    "mobile": "17060001187",
+    "id_no": "621228198402029625",
+    "english_name": "hxzq",
+    "contact_name": "hxzq1",
+    "contact_rel": "2",
+    "contact_rel_nm": "夫妻",
+    "contact_mobile": "17060001188",
+    "ins_contact_name": "hxzq2",
+    "ins_contact_rel": "3",
+    "ins_contact_rel_nm": "朋友",
+    "ins_contact_mobile": "17060001189",
+    "home_pc_ids": "P916,C917,A918",
+    "home_pc_names": "海南省,海口市,龙华区",
+    "home_area": "过敏匿名",
+    "email": "abc@124.com",
+    "corp_name": "23",
+    "company_pc_ids": "P916,C917,A918",
+    "company_pc_names": "海南省,海口市,龙华区",
+    "company_area": "过敏公民路途",
+    "corp_zone": "0898",
+    "corp_tel": "46464646",
+    "brand_source": "HX_H5",
+    "brand_type": "ZX_JK",
+    "assert_info": {
+      "resultCode": "000000",
+      "resultMsg": "成功"
+    }
+  }
+}

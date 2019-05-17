@@ -1,0 +1,42 @@
+{
+  "stop": {
+    "user_name": "17200000355",
+    "password": "12qwaszx",
+    "employee_id": "10",
+    "trade_password":"135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "employee_id_null": {
+    "user_name": "17200000355",
+    "password": "12qwaszx",
+    "employee_id": "",
+    "trade_password":"135790",
+    "assert_info": {
+      "returnCode": "080001",
+      "returnMsg": "服务异常"
+    }
+  },
+  "trade_password_error": {
+    "user_name": "17200000355",
+    "password": "12qwaszx",
+    "employee_id": "10",
+    "trade_password":"123456",
+    "assert_info": {
+      "returnCode": "030067",
+      "returnMsg": "密码错误次数已达"
+    }
+  },
+  "trade_password_null": {
+    "user_name": "17200000355",
+    "password": "12qwaszx",
+    "employee_id": "10",
+    "trade_password":"",
+    "assert_info": {
+      "returnCode": "081504",
+      "returnMsg": "请输入交易密码"
+    }
+  }
+}

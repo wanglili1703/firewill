@@ -1,0 +1,40 @@
+{
+  "get_fund_buy_rate_1": {
+    "user_name": "15646989464",
+    "password": "12qwaszx",
+    "fund_id": "05#050003",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "get_fund_buy_rate_30": {
+    "user_name": "15646989464",
+    "password": "12qwaszx",
+    "fund_id": "77#000300",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "get_fund_buy_rate_30_400": {
+    "user_name": "15646989464",
+    "password": "12qwaszx",
+    "fund_id": "63#630012",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "get_fund_buy_rate_30_401": {
+    "user_name": "15646989464",
+    "password": "12qwaszx",
+    "fund_id": "63#630112",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

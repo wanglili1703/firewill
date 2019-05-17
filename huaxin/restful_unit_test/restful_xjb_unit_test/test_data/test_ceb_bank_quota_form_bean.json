@@ -1,0 +1,38 @@
+{
+  "ceb_bank_quota_form_bean": {
+    "user_name": "17200000221",
+    "password": "12qwaszx",
+    "bank_card_id": "0000000000110207",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "bank_carn_id_error": {
+    "user_name": "17200000221",
+    "password": "12qwaszx",
+    "bank_card_id": "123",
+    "assert_info": {
+      "returnCode": "030037",
+      "returnMsg": "银行流水号不存在"
+    }
+  },
+  "bank_card_id_null": {
+    "user_name": "17200000221",
+    "password": "12qwaszx",
+    "bank_card_id": "",
+    "assert_info": {
+      "returnCode": "030018",
+      "returnMsg": "参数非法"
+    }
+  },
+  "other_ceb_bank": {
+    "user_name": "17200000221",
+    "password": "12qwaszx",
+    "bank_card_id": "0000000000101369",
+    "assert_info": {
+      "returnCode": "030096",
+      "returnMsg": "非本人银行卡,不允许操作"
+    }
+  }
+}

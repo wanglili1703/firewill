@@ -1,0 +1,10 @@
+{
+  "test_check_all_bank_channel_list": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "cert_type":"0",
+    "assert_info": {
+      "returnCode": "000000", "returnMsg": ""
+    }
+  }
+}

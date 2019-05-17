@@ -1,0 +1,92 @@
+{
+  "order_subscribe_vip_using_coupon": {
+    "user_name": "13501000090",
+    "password": "12qwaszx",
+    "product_id": "H9#H90017",
+    "pay_type": "0",
+    "pay_amount": "100",
+    "prod_type_scope_val": "'3#0','3#1','3#2','3#3'",
+    "trade_password": "135790",
+    "is_successful": "true",
+    "ecard_no": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "using_frozen_coupon": {
+    "user_name": "13501000090",
+    "password": "12qwaszx",
+    "product_id": "H9#H90017",
+    "pay_type": "0",
+    "pay_amount": "1000",
+    "prod_type_scope_val": "'3#0','3#1','3#2','3#3'",
+    "trade_password": "135790",
+    "is_successful": "false",
+    "ecard_no": "3300289569785716736",
+    "assert_info": {
+      "returnCode": "015001",
+      "returnMsg": "券的支付金额必须大于0"
+    }
+  },
+  "using_expired_coupon": {
+    "user_name": "13501000090",
+    "password": "12qwaszx",
+    "product_id": "H9#H90017",
+    "pay_type": "0",
+    "pay_amount": "1000",
+    "prod_type_scope_val": "'3#0','3#1','3#2','3#3'",
+    "trade_password": "135790",
+    "is_successful": "false",
+    "ecard_no": "3299663039049048064",
+    "assert_info": {
+      "returnCode": "015001",
+      "returnMsg": "券的支付金额必须大于0"
+    }
+  },
+  "using_only_for_fund_coupon": {
+    "user_name": "13501000090",
+    "password": "12qwaszx",
+    "product_id": "H9#H90017",
+    "pay_type": "0",
+    "pay_amount": "1000",
+    "prod_type_scope_val": "'3#0','3#1','3#2','3#3'",
+    "trade_password": "135790",
+    "is_successful": "false",
+    "ecard_no": "3300009041408892928",
+    "assert_info": {
+      "returnCode": "015001",
+      "returnMsg": "券的支付金额必须大于0"
+    }
+  },
+  "purchase_amt_less_than_discount_amount": {
+    "user_name": "13501000090",
+    "password": "12qwaszx",
+    "product_id": "H9#H90017",
+    "pay_type": "0",
+    "pay_amount": "10",
+    "prod_type_scope_val": "'3#0','3#1','3#2','3#3'",
+    "trade_password": "135790",
+    "is_successful": "false",
+    "ecard_no": "3300289571681542144",
+    "assert_info": {
+      "returnCode": "015001",
+      "returnMsg": "券的支付金额必须大于0"
+    }
+  },
+  "not_meet_coupon_condition": {
+    "user_name": "13501000090",
+    "password": "12qwaszx",
+    "product_id": "H9#H90017",
+    "pay_type": "0",
+    "pay_amount": "15",
+    "prod_type_scope_val": "'3#0','3#1','3#2','3#3'",
+    "trade_password": "135790",
+    "is_successful": "false",
+    "ecard_no": "3300289571681542144",
+    "assert_info": {
+      "returnCode": "015001",
+      "returnMsg": "券的支付金额必须大于0"
+    }
+  }
+}

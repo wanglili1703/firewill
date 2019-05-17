@@ -1,0 +1,42 @@
+{
+  "test_fund_all_list": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "pageNo": "1",
+    "pageSize": "20",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_all_list": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "pageNo": "5",
+    "pageSize": "20",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "all_list_like": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "pageNo": "3",
+    "pageSize": "20",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "all_list_pool": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "pageNo": "3",
+    "pageSize": "20",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

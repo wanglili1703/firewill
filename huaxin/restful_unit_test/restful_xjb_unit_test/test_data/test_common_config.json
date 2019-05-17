@@ -1,0 +1,61 @@
+{
+  "config_display_points": {
+    "user_name": "13968138303",
+    "password": "12qwaszx",
+    "key": "isDisplayPoints",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "config_display_loan": {
+    "user_name": "13968138303",
+    "password": "12qwaszx",
+    "key": "isDisplayLoan",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "config_invest_plan_use_points_intro": {
+    "user_name": "13968138303",
+    "password": "12qwaszx",
+    "key": "investPlanUsePointsIntro",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "config_xjb_name": {
+    "user_name": "13968138303",
+    "password": "12qwaszx",
+    "key": "xjbName",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "config_xjb_detail": {
+    "user_name": "13968138303",
+    "password": "12qwaszx",
+    "key": "xjbDetail",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "config_all": {
+    "user_name": "13968138303",
+    "password": "12qwaszx",
+    "key": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

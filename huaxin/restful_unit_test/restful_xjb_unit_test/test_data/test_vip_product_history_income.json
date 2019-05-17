@@ -1,0 +1,21 @@
+{
+  "vip_prod_his_income": {
+    "user_name": "17200000245",
+    "password": "12qwaszx",
+    "product_id": "H9#H90024",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "null_vip_prod_his_income": {
+    "user_name": "17200000245",
+    "password": "12qwaszx",
+    "product_id": "",
+    "assert_info": {
+      "returnCode": "081514",
+      "returnMsg": "产品id不能为空"
+    }
+  }
+}

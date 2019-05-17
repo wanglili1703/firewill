@@ -1,0 +1,50 @@
+{
+  "get_coupon_1": {
+    "user_name": "17200000357",
+    "password": "12qwaszx",
+    "member_level": "NOVICE",
+    "rights_id": "COUPON_288_GIFTPACKS",
+    "parent_rights_id": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "get_points_2": {
+    "user_name": "17300001170",
+    "password": "12qwaszx",
+    "member_level": "SILVER",
+    "rights_id": "POINTS_58_GIFTPACKS",
+    "parent_rights_id": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "no_exists_level": {
+    "user_name": "17300001160",
+    "password": "12qwaszx",
+    "member_level": "GOLDEN",
+    "rights_id": "POINTS_28_GIFTPACKS",
+    "parent_rights_id": "",
+    "assert_info": {
+      "returnCode": "120102",
+      "returnMsg": "会员等级不存在"
+    }
+  },
+
+  "no_exists_gift": {
+    "user_name": "17300001160",
+    "password": "12qwaszx",
+    "member_level": "GOLD",
+    "rights_id": "COUPON_188_GIFTPACKS",
+    "parent_rights_id": "",
+    "assert_info": {
+      "returnCode": "120004",
+      "returnMsg": "会员权益不存在"
+    }
+  }
+}
+

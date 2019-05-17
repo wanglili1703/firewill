@@ -1,0 +1,11 @@
+{
+  "test_check_raise_quota": {
+    "user_name": "17200000312",
+    "password": "12qwaszx",
+    "card_id": "0000000000102570",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

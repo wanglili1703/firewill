@@ -1,0 +1,62 @@
+{
+  "cert_no_used": {
+    "user_name": "17200000230",
+    "password": "12qwaszx",
+    "name" : "test",
+    "cert_type" : "0",
+    "cert_no": "330824198907106047",
+    "cert_validate_date": "20250826",
+    "assert_info": {
+      "returnCode": "030010",
+      "returnMsg": "您输入的个人信息已被其他账号认证过，请重新输入"
+    }
+  },
+  "cert_validate_date_null": {
+    "user_name": "17200000230",
+    "password": "12qwaszx",
+    "name" : "test",
+    "cert_type" : "0",
+    "cert_no": "130321198306010636",
+    "cert_validate_date": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "cert_no_null": {
+    "user_name": "17200000230",
+    "password": "12qwaszx",
+    "name" : "test",
+    "cert_type" : "0",
+    "cert_no": "",
+    "cert_validate_date": "20250826",
+    "assert_info": {
+      "returnCode": "030018",
+      "returnMsg": "参数非法"
+    }
+  },
+  "cert_type_null": {
+    "user_name": "17200000230",
+    "password": "12qwaszx",
+    "name" : "test",
+    "cert_type" : "",
+    "cert_no": "511702198807288390",
+    "cert_validate_date": "20250826",
+    "assert_info": {
+      "returnCode": "030018",
+      "returnMsg": "参数非法"
+    }
+  },
+  "name_null": {
+    "user_name": "17200000230",
+    "password": "12qwaszx",
+    "name" : "",
+    "cert_type" : "0",
+    "cert_no": "512501197203035172",
+    "cert_validate_date": "20250826",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "withdraw": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "amt": "1",
+    "withdraw_type": "1",
+    "trade_password": "121212",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fast_withdraw": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "amt": "1",
+    "withdraw_type": "2",
+    "trade_password": "121212",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "less_amount_withdraw": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "amt": "0",
+    "withdraw_type": "1",
+    "trade_password": "121212",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "less_amount_fast_withdraw": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "amt": "0",
+    "withdraw_type": "2",
+    "trade_password": "121212",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "over_amount_withdraw": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "amt": "1000000",
+    "withdraw_type": "1",
+    "trade_password": "121212",
+    "assert_info": {
+      "returnCode": "011026",
+      "returnMsg": "普取金额已达上限"
+    }
+  },
+  "over_amount_fast_withdraw": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "amt": "1000000",
+    "withdraw_type": "2",
+    "trade_password": "121212",
+    "assert_info": {
+      "returnCode": "011028",
+      "returnMsg": "快取金额已达上限"
+    }
+  },
+  "negative_amount_withdraw": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "amt": "-100",
+    "withdraw_type": "1",
+    "trade_password": "121212",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "negative_amount_fast_withdraw": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "amt": "-100",
+    "withdraw_type": "2",
+    "trade_password": "121212",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "muldecimal_amount_withdraw": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "amt": "100.001",
+    "withdraw_type": "1",
+    "trade_password": "121212",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "muldecimal_amount_fast__withdraw": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "amt": "100.001",
+    "withdraw_type": "2",
+    "trade_password": "121212",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "blank_amount_withdraw": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "amt": "100 0",
+    "withdraw_type": "1",
+    "trade_password": "121212",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "blank_amount_fast_withdraw": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "amt": "100 0",
+    "withdraw_type": "2",
+    "trade_password": "121212",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "char_amount_withdraw": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "amt": "a12",
+    "withdraw_type": "1",
+    "trade_password": "121212",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "char_amount_fast_withdraw": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "amt": "a12",
+    "withdraw_type": "2",
+    "trade_password": "121212",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  }
+
+}

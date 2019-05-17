@@ -1,0 +1,26 @@
+{
+  "get_exclusive_pro_1": {
+    "user_name": "17200000357",
+    "password": "12qwaszx",
+    "member_level": "1",
+    "rights_id": "68",
+    "parent_rights_id": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "get_exclusive_pro_2": {
+    "user_name": "17300001170",
+    "password": "12qwaszx",
+    "member_level": "2",
+    "rights_id": "68",
+    "parent_rights_id": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}
+

@@ -1,0 +1,262 @@
+{
+  "subscribe_fund": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "05#050033",
+    "pay_type": "0",
+    "amt": "10",
+    "product_status": "认购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "purchase_fund": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "05#050026",
+    "pay_type": "0",
+    "amt": "20",
+    "product_status": "申购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "subscribe_vipproduct": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "H9#F90029",
+    "pay_type": "0",
+    "amt": "30",
+    "product_status": "认购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "purchase_vipproduct": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "H9#F90028",
+    "pay_type": "0",
+    "amt": "40",
+    "product_status": "申购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "subscribe_fund_fund_id_none": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "",
+    "pay_type": "0",
+    "amt": "10",
+    "product_status": "认购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081514",
+      "returnMsg": "产品id不能为空"
+    }
+  },
+  "subscribe_fund_amt_lower": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "05#050033",
+    "pay_type": "0",
+    "amt": "0.005",
+    "product_status": "认购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+   "subscribe_fund_amt_negivate": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "05#050033",
+    "pay_type": "0",
+    "amt": "-10",
+    "product_status": "认购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "subscribe_fund_amt_none": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "05#050033",
+    "pay_type": "0",
+    "amt": "",
+    "product_status": "认购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081520",
+      "returnMsg": "请输入交易金额"
+    }
+  },
+  "purchase_fund_fund_id_none": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "",
+    "pay_type": "0",
+    "amt": "10",
+    "product_status": "申购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081514",
+      "returnMsg": "产品id不能为空"
+    }
+  },
+  "purchase_fund_amt_none": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "05#050026",
+    "pay_type": "0",
+    "amt": "",
+    "product_status": "申购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081520",
+      "returnMsg": "请输入交易金额"
+    }
+  },
+  "purchase_fund_amt_negivate": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "05#050026",
+    "pay_type": "0",
+    "amt": "-10",
+    "product_status": "申购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "purchase_fund_amt_lower": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "05#050026",
+    "pay_type": "0",
+    "amt": "0.005",
+    "product_status": "申购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "subscribe_vip_prod_none": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "",
+    "pay_type": "0",
+    "amt": "10",
+    "product_status": "认购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081514",
+      "returnMsg": "产品id不能为空"
+    }
+  },
+  "subscribe_vip_amt_none": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "H9#F90029",
+    "pay_type": "0",
+    "amt": "",
+    "product_status": "认购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081520",
+      "returnMsg": "请输入交易金额"
+    }
+  },
+  "subscribe_vip_amt_negivate": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "H9#F90029",
+    "pay_type": "0",
+    "amt": "-10",
+    "product_status": "认购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "subscribe_vip_amt_lower": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "H9#F90029",
+    "pay_type": "0",
+    "amt": "0.005",
+    "product_status": "认购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "purchase_vip_lower_than_min_add": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "H9#F90028",
+    "pay_type": "0",
+    "amt": "0",
+    "product_status": "申购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "purchase_vip_negative": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "H9#F90028",
+    "pay_type": "0",
+    "amt": "-1",
+    "product_status": "申购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "purchase_vip_special_characters": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "H9#F90028",
+    "pay_type": "0",
+    "amt": "1abc",
+    "product_status": "申购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "purchase_vip_step_invalid": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "H9#F90028",
+    "pay_type": "0",
+    "amt": "1",
+    "product_status": "申购",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "013025",
+      "returnMsg": "该产品申购金额必须为10.00的整数倍"
+    }
+  }
+}

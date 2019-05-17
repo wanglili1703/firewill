@@ -1,0 +1,23 @@
+{
+  "issue_coupon": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "coupon_id": "3301365735896457216",
+    "accept_mode": "M",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "active_coupon": {
+    "user_name": "17200000198",
+    "password": "12qwaszx",
+    "coupon_id": "3300044042892550144",
+    "accept_mode": "M",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

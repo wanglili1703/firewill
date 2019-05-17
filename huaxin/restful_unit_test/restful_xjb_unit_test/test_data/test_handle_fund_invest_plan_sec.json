@@ -1,0 +1,35 @@
+{
+  "recover_handle_invest_plan_validate": {
+  "user_name": "13999970868",
+  "password": "12qwaszx",
+  "is_confirm_beyond_risk": "0",
+  "type": "2",
+  "trade_password": "135790",
+  "assert_info": {
+    "returnCode": "000000",
+    "returnMsg": ""
+    }
+  },
+  "end_handle_invest_plan_validate": {
+  "user_name": "13999970868",
+  "password": "12qwaszx",
+  "is_confirm_beyond_risk": "0",
+  "type": "0",
+  "trade_password": "135790",
+  "assert_info": {
+    "returnCode": "000000",
+    "returnMsg": ""
+    }
+  },
+  "stop_handle_invest_plan_validate": {
+  "user_name": "13999970868",
+  "password": "12qwaszx",
+  "is_confirm_beyond_risk": "0",
+  "type": "1",
+  "trade_password": "135790",
+  "assert_info": {
+    "returnCode": "000000",
+    "returnMsg": ""
+    }
+  }
+}

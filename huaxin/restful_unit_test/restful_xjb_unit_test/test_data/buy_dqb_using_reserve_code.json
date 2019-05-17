@@ -1,0 +1,28 @@
+{
+  "buy_dqb_using_reserve_code": {
+    "user_name": "17200000291",
+    "login_password": "12qwaszx",
+    "product_id": "899#SP13149",
+    "reservation_code": "82025986",
+    "amount": "10",
+    "trade_password": "135790",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "reserve_code_already_used": {
+    "user_name": "17200000261",
+    "login_password": "12qwaszx",
+    "product_id": "899#SP13149",
+    "reservation_code": "87912151",
+    "amount": "15",
+    "trade_password": "135790",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "011040",
+      "returnMsg": "该预约码已失效，请输入正确的预约码"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "get_province": {
+    "user_name": "17200000247",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "dqb_1000": {
+    "user_name": "13501000089",
+    "password": "12qwaszx",
+    "purchase_amt": "1000",
+    "prod_type_scope_val": "'1#0','1#1'",
+    "product_id": "899#SG5001",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "dqb_10000": {
+    "user_name": "13501000089",
+    "password": "12qwaszx",
+    "purchase_amt": "10000",
+    "prod_type_scope_val": "'1#0','1#1'",
+    "product_id": "899#SG5001",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "dqb_100": {
+    "user_name": "13501000089",
+    "password": "12qwaszx",
+    "purchase_amt": "100",
+    "prod_type_scope_val": "'1#0','1#1'",
+    "product_id": "899#SG5001",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "vip_100": {
+    "user_name": "13501000093",
+    "password": "12qwaszx",
+    "purchase_amt": "101",
+    "prod_type_scope_val": "'3#2'",
+    "product_id": "H9#H90019",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "equity_fund": {
+    "user_name": "13501000093",
+    "password": "12qwaszx",
+    "purchase_amt": "101",
+    "prod_type_scope_val": "'2#0'",
+    "product_id": "39#0L0007",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "bond_fund": {
+    "user_name": "13501000093",
+    "password": "12qwaszx",
+    "purchase_amt": "11",
+    "prod_type_scope_val": "'2#2'",
+    "product_id": "05#0L0003",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

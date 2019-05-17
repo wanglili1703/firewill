@@ -1,0 +1,20 @@
+{
+  "payment_list": {
+    "user_name": "17200000317",
+    "password": "12qwaszx",
+    "product_id":"H9#H90017",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "product_id_is_null": {
+    "user_name": "17200000317",
+    "password": "12qwaszx",
+    "product_id":"",
+    "assert_info": {
+      "returnCode": "013034",
+      "returnMsg": "获取总资产异常"
+    }
+  }
+}

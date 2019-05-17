@@ -1,0 +1,80 @@
+{
+  "single_points_exchange": {
+    "user_name": "17300001180",
+    "password": "12qwaszx",
+    "goods_id": "114",
+    "exchange_count": "1",
+    "pay_type": "SINGLE_POINT",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "not_enough_points_exchange": {
+    "user_name": "17300001179",
+    "password": "12qwaszx",
+    "goods_id": "114",
+    "exchange_count": "1",
+    "pay_type": "SINGLE_POINT",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "110010",
+      "returnMsg": "您的积分余额不足，请先去赚取吧~"
+    }
+  },
+
+  "single_coin_exchange": {
+    "user_name": "17300001180",
+    "password": "12qwaszx",
+    "goods_id": "114",
+    "exchange_count": "1",
+    "pay_type": "SINGLE_COIN",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "not_enough_coin_exchange": {
+    "user_name": "17300001179",
+    "password": "12qwaszx",
+    "goods_id": "114",
+    "exchange_count": "1",
+    "pay_type": "SINGLE_COIN",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "130010",
+      "returnMsg": "您的元宝余额不足，请先去赚取吧~"
+    }
+  },
+
+  "mix_point_coin_exchange": {
+    "user_name": "17300001180",
+    "password": "12qwaszx",
+    "goods_id": "114",
+    "exchange_count": "1",
+    "pay_type": "MIX_POINT_COIN",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "both_not_enough_mix_point_coin_exchange": {
+    "user_name": "17300001179",
+    "password": "12qwaszx",
+    "goods_id": "114",
+    "exchange_count": "1",
+    "pay_type": "MIX_POINT_COIN",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "110010",
+      "returnMsg": "您的积分余额不足，请先去赚取吧~"
+    }
+  }
+}
+

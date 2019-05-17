@@ -1,0 +1,1 @@
+python /Users/linkinpark/firewill/huaxin/python_unit_test/restful_xjb_unit_test/restful_xjb_unit_test.py

@@ -1,0 +1,26 @@
+{
+  "transfer_to_fund_tip_normal": {
+    "user_name": "17200000189",
+    "password": "12qwaszx",
+    "to_fund_id": "05#000219",
+    "from_fund_id": "05#000811",
+    "type": "0",
+    "transfer_share": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "transfer_to_fund_tip_fast": {
+    "user_name": "17200000189",
+    "password": "12qwaszx",
+    "to_fund_id": "74#000812",
+    "from_fund_id": "05#000810",
+    "type": "1",
+    "transfer_share": "5",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

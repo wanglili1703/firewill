@@ -1,0 +1,32 @@
+{
+  "currency_fund_nav_history": {
+    "user_name": "17200000237",
+    "password": "12qwaszx",
+    "start_date": "20170913",
+    "fund_id": "31#310339",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_id_is_null": {
+    "user_name": "17200000237",
+    "password": "12qwaszx",
+    "start_date": "20170913",
+    "fund_id": "",
+    "assert_info": {
+      "returnCode": "081544",
+      "returnMsg": "基金id不能为空"
+    }
+  },
+  "other_fund_nav_history": {
+    "user_name": "17200000237",
+    "password": "12qwaszx",
+    "start_date": "20170913",
+    "fund_id": "17#217026",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

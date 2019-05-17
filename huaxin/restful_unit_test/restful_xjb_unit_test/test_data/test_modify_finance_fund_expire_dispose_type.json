@@ -1,0 +1,61 @@
+{
+  "1_test_modify_expire_dispose_type": {
+    "user_name": "17200000240",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "expire_dispose_type": "1",
+    "expire_quit_amt": "4003",
+    "fund_id": "53#530030",
+    "value_date": "20171218",
+    "expire_date": "20181218",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "1_part_test_modify_expire_dispose_type": {
+    "user_name": "17300001192",
+    "password": "12qwaszx",
+    "trade_password": "258036",
+    "expire_dispose_type": "1",
+    "expire_quit_amt": "3500",
+    "fund_id": "53#530030",
+    "value_date": "20171219",
+    "expire_date": "20181219",
+    "assert_info": {
+      "returnCode": "013032",
+      "returnMsg": "取出后剩余持有份额不能小于最低持有份额"
+    }
+  },
+
+  "0_part_test_modify_expire_dispose_type": {
+    "user_name": "17200000240",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "expire_dispose_type": "0",
+    "expire_quit_amt": "0",
+    "fund_id": "53#530030",
+    "value_date": "20171213",
+    "expire_date": "20181213",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "0_test_modify_expire_dispose_type": {
+    "user_name": "17200000240",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "expire_dispose_type": "0",
+    "expire_quit_amt": "100",
+    "fund_id": "53#530030",
+    "value_date": "20171219",
+    "expire_date": "20181219",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

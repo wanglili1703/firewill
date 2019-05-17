@@ -1,0 +1,57 @@
+{
+  "successful": {
+    "user_name": "17200000194",
+    "password": "12qwaszx",
+    "card_no": "6229180024840002",
+    "bank_no": "X08",
+    "brand_type": "HX_H5",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "card_no_is_null": {
+    "user_name": "17200000194",
+    "password": "12qwaszx",
+    "card_no": "",
+    "bank_no": "X08",
+    "brand_type": "HX_H5",
+    "assert_info": {
+      "returnCode": "081508",
+      "returnMsg": "银行卡号不能为空"
+    }
+  },
+  "bank_no_is_null": {
+    "user_name": "17200000194",
+    "password": "12qwaszx",
+    "card_no": "6229180024840002",
+    "bank_no": "",
+    "brand_type": "HX_H5",
+    "assert_info": {
+      "returnCode": "109999",
+      "returnMsg": "该卡非联名卡"
+    }
+  },
+  "brand_type_is_null": {
+    "user_name": "17200000194",
+    "password": "12qwaszx",
+    "card_no": "6229180024840002",
+    "bank_no": "X08",
+    "brand_type": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "card_already_binding": {
+    "user_name": "13501000113",
+    "password": "12qwaszx",
+    "card_no": "6229180024840001",
+    "bank_no": "X08",
+    "brand_type": "HX_H5",
+    "assert_info": {
+      "returnCode": "109999",
+      "returnMsg": "该卡号已绑定"
+    }
+  }
+}

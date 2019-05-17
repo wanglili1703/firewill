@@ -1,0 +1,78 @@
+{
+  "5_fund": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "fund_id": "05#050106",
+    "fund_type": "5",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "0_fund": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "fund_id": "17#217027",
+    "fund_type": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "3_fund": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "fund_id": "77#001179",
+    "fund_type": "3",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "2_fund": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "fund_id": "05#050111",
+    "fund_type": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "1_fund": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "fund_id": "15#150015",
+    "fund_type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "11_fund": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "fund_id": "17#217015",
+    "fund_type": "11",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "8_fund": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "fund_id": "17#217026",
+    "fund_type": "8",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

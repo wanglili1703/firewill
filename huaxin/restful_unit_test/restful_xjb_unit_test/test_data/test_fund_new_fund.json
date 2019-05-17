@@ -1,0 +1,45 @@
+{
+  "new_fund_list": {
+    "user_name": "13501000054",
+    "password": "12qwaszx",
+    "page_no": "1",
+    "page_size": "20",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "new_fund_list_page2": {
+    "user_name": "13501000054",
+    "password": "12qwaszx",
+    "page_no": "2",
+    "page_size": "20",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "new_fund_list_page1": {
+    "user_name": "13501000054",
+    "password": "12qwaszx",
+    "page_no": "2",
+    "page_size": "20",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "new_fund_list_kim": {
+    "user_name": "13501000054",
+    "password": "12qwaszx",
+    "page_no": "2",
+    "page_size": "20",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

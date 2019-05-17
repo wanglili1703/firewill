@@ -1,0 +1,68 @@
+{
+  "all_notice_list": {
+    "user_name": "13501000054",
+    "password": "12qwaszx",
+    "fund_id": "09#000627",
+    "notice_type": "-1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "ls_notice_list": {
+    "user_name": "13501000054",
+    "password": "12qwaszx",
+    "fund_id": "09#000627",
+    "notice_type": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "dq_notice_list": {
+    "user_name": "13501000054",
+    "password": "12qwaszx",
+    "fund_id": "09#000627",
+    "notice_type": "3",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "sale_notice_list": {
+    "user_name": "13501000054",
+    "password": "12qwaszx",
+    "fund_id": "09#000627",
+    "notice_type": "4",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "fx_notice_list": {
+    "user_name": "13501000054",
+    "password": "12qwaszx",
+    "fund_id": "09#000627",
+    "notice_type": "5",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+
+  "other_notice_list": {
+    "user_name": "13501000054",
+    "password": "12qwaszx",
+    "fund_id": "09#000627",
+    "notice_type": "6",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

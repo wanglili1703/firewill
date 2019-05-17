@@ -1,0 +1,10 @@
+{
+ "login_binding_card": {
+    "user_name": "15005243789",
+    "login_password": "a0000000",
+    "card_bin":"622202",
+    "trade_password":"135790",
+
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  }
+}

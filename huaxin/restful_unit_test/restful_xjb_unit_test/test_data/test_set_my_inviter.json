@@ -1,0 +1,20 @@
+{
+  "set_inviter": {
+    "user_name": "17200000243",
+    "password": "12qwaszx",
+    "mobile": "17200000249",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "no_mobile": {
+    "user_name": "17200000243",
+    "password": "12qwaszx",
+    "mobile": "",
+    "assert_info": {
+      "returnCode": "081553",
+      "returnMsg": "手机号异常，请尝试手动输入"
+    }
+  }
+}

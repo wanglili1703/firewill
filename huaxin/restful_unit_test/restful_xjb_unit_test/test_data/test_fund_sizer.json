@@ -1,0 +1,70 @@
+{
+ "total_fund_companies": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "company_id": "",
+    "grade_org_id": "10668",
+    "grade_level": "5",
+    "rise_min": "-100",
+    "rise_max": "100",
+    "rise_section": "4",
+    "page_no": "1",
+    "page_size": "20",
+    "fund_type": "",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+   "empty_grade_org_id": {
+     "user_name": "13501000051",
+     "login_password": "12qwaszx",
+     "company_id": "41503",
+     "grade_org_id": "",
+     "grade_level": "4",
+     "rise_min": "0",
+     "rise_max": "100",
+     "rise_section": "2",
+     "page_no": "1",
+     "page_size": "20",
+     "fund_type": "",
+     "assert_info": {
+       "returnCode": "000000",
+       "returnMsg": ""
+     }
+   },
+
+  "empty_grade_org_id_p": {
+     "user_name": "13501000051",
+     "login_password": "12qwaszx",
+     "company_id": "41503",
+     "grade_org_id": "",
+     "grade_level": "4",
+     "rise_min": "0",
+     "rise_max": "100",
+     "rise_section": "2",
+     "page_no": "1",
+     "page_size": "20",
+     "fund_type": "",
+     "assert_info": {
+       "returnCode": "000000",
+       "returnMsg": ""
+     }
+   },
+
+  "empty_grade_org_id_l": {
+     "user_name": "13501000051",
+     "login_password": "12qwaszx",
+     "company_id": "41503",
+     "grade_org_id": "",
+     "grade_level": "4",
+     "rise_min": "0",
+     "rise_max": "100",
+     "rise_section": "2",
+     "page_no": "1",
+     "page_size": "20",
+     "fund_type": "",
+     "assert_info": {
+       "returnCode": "000000",
+       "returnMsg": ""
+     }
+   }
+}

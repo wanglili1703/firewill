@@ -1,0 +1,67 @@
+{
+  "0_REMEN": {
+    "user_name": "13991114729",
+    "password": "12qwaszx",
+    "common_info_type": "0",
+    "categary_code": "FINPRODUCTTYPE_0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "1_DHB": {
+    "user_name": "13991114729",
+    "password": "12qwaszx",
+    "common_info_type": "1",
+    "categary_code": "FINPRODUCTTYPE_0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "2_HE": {
+    "user_name": "13991114729",
+    "password": "12qwaszx",
+    "categary_code": "FINPRODUCTTYPE_1",
+    "common_info_type": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "3_GDSY": {
+    "user_name": "13991114729",
+    "password": "12qwaszx",
+    "common_info_type": "3",
+    "categary_code": "FINPRODUCTTYPE_2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "4_XJGL": {
+    "user_name": "13991114729",
+    "password": "12qwaszx",
+    "common_info_type": "4",
+    "categary_code": "FINPRODUCTTYPE_3",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "5_JXQY": {
+    "user_name": "13991114729",
+    "password": "12qwaszx",
+    "common_info_type": "5",
+    "categary_code": "FINPRODUCTTYPE_4",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

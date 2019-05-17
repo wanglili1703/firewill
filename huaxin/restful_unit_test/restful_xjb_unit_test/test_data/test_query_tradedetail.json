@@ -1,0 +1,20 @@
+{
+  "tradedetail1": {
+    "user_name": "13993044547",
+    "login_password": "12qwaszx",
+    "trade_serial_no": "012017071159646B44015B1b9528",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "tradedetail2": {
+    "user_name": "18873623052",
+    "login_password": "12qwaszx",
+    "trade_serial_no": "0120170707595F329A03531b6B13",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

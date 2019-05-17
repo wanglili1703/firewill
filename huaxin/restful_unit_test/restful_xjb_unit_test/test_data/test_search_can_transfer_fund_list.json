@@ -1,0 +1,22 @@
+{
+  "search_can_transfer_fund_list_normal": {
+    "user_name": "17200000285",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000811",
+    "keyword": "博时稳定",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "search_can_transfer_fund_list_fast": {
+    "user_name": "17200000285",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000810",
+    "keyword": "0008",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

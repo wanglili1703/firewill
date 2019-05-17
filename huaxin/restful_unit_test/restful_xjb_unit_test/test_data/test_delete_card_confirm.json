@@ -1,0 +1,12 @@
+{
+  "delete_card_successful": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "serial_no":"1222",
+    "trade_password": "142536",
+    "assert_info": {
+      "returnCode": "080005",
+      "returnMsg": "登录超时，请重新登录"
+    }
+  }
+}

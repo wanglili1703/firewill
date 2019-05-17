@@ -1,0 +1,46 @@
+{
+  "get_fund_next_pay_day1": {
+    "user_name": "13501000111",
+    "password": "12qwaszx",
+    "fund_id": "05#000802",
+    "pay_cycle": "1#W",
+    "pay_day": "W#1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "get_fund_next_pay_day2": {
+    "user_name": "13501000111",
+    "password": "12qwaszx",
+    "fund_id": "05#000802",
+    "pay_cycle": "2#W",
+    "pay_day": "W#2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "get_fund_next_pay_day3": {
+    "user_name": "13501000111",
+    "password": "12qwaszx",
+    "fund_id": "05#000802",
+    "pay_cycle": "1#M",
+    "pay_day": "M#10",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "get_fund_next_pay_day4": {
+    "user_name": "13501000111",
+    "password": "12qwaszx",
+    "fund_id": "05#000802",
+    "pay_cycle": "1#D",
+    "pay_day": "D#1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "purchase_fund_using_coupon": {
+    "user_name": "13501000091",
+    "password": "12qwaszx",
+    "product_id": "09#000724",
+    "pay_type": "0",
+    "pay_amount": "200",
+    "prod_type_scope_val": "'2#0'",
+    "trade_password": "135790",
+    "is_successful": "true",
+    "ecard_no": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

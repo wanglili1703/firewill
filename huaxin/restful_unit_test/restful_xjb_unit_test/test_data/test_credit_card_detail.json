@@ -1,0 +1,20 @@
+{
+  "card_detail": {
+    "user_name": "17200000236",
+    "password": "12qwaszx",
+    "card_serial_no": "2623",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "card_serial_no_null": {
+    "user_name": "17200000236",
+    "password": "12qwaszx",
+    "card_serial_no": "",
+    "assert_info": {
+      "returnCode": "080001",
+      "returnMsg": "服务异常"
+    }
+  }
+}

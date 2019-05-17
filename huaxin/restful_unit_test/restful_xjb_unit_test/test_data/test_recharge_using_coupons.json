@@ -1,0 +1,14 @@
+{
+  "recharge_using_coupons": {
+    "user_name": "17200000251",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "recharge_amount": "10",
+    "bank_card_id": "0000000000102273",
+    "bank_no": "506",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

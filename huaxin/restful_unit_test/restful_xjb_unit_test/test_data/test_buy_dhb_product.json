@@ -1,0 +1,122 @@
+{
+  "subscribe_dhb": {
+    "user_name": "17200000256",
+    "login_password": "12qwaszx",
+    "product_id": "899#S88083",
+    "pay_type": "0",
+    "amt": "10",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "sub_subscribe_dhb": {
+    "user_name": "17200000256",
+    "login_password": "12qwaszx",
+    "product_id": "899#S88082",
+    "pay_type": "0",
+    "amt": "20",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "subscribe_dhb_a_point": {
+    "user_name": "17200000256",
+    "login_password": "12qwaszx",
+    "product_id": "899#S88083",
+    "pay_type": "0",
+    "amt": "20.5",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "subscribe_dhb_increas_amt_error": {
+    "user_name": "17200000256",
+    "login_password": "12qwaszx",
+    "product_id": "899#S88083",
+    "pay_type": "0",
+    "amt": "30.55",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "013017",
+      "returnMsg": "收益凭证认购金额不合法"
+    }
+  },
+  "subscribe_dhb_prod_id_none": {
+    "user_name": "17200000256",
+    "login_password": "12qwaszx",
+    "product_id": "",
+    "pay_type": "0",
+    "amt": "10",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081514",
+      "returnMsg": "产品id不能为空"
+    }
+  },
+  "subscribe_dhb_amt_lower": {
+    "user_name": "17200000256",
+    "login_password": "12qwaszx",
+    "product_id": "899#S88083",
+    "pay_type": "0",
+    "amt": "0.005",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+   "subscribe_dhb_amt_negivate": {
+    "user_name": "17200000256",
+    "login_password": "12qwaszx",
+    "product_id": "899#S88083",
+    "pay_type": "0",
+    "amt": "-10",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "subscribe_dhb_lower_than_min_add": {
+    "user_name": "17200000256",
+    "login_password": "12qwaszx",
+    "product_id": "899#S88083",
+    "pay_type": "0",
+    "amt": "0",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "subscribe_dhb_special_characters": {
+    "user_name": "17200000256",
+    "login_password": "12qwaszx",
+    "product_id": "899#S88083",
+    "pay_type": "0",
+    "amt": "1abc",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "subscribe_dhb_step_invalid": {
+    "user_name": "17200000256",
+    "login_password": "12qwaszx",
+    "product_id": "H9#F90028",
+    "pay_type": "0",
+    "amt": "1",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "013025",
+      "returnMsg": "该产品申购金额必须为10.00的整数倍"
+    }
+  }
+}

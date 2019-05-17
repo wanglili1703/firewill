@@ -1,0 +1,68 @@
+{
+  "dhb_prod": {
+    "user_name": "13501000112",
+    "password": "12qwaszx",
+    "product_type": "1",
+    "high_series_type": "",
+    "is_history": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "vip_pro_all": {
+    "user_name": "13501000112",
+    "password": "12qwaszx",
+    "product_type": "3",
+    "high_series_type": "",
+    "is_history": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "history_dhb": {
+    "user_name": "13501000112",
+    "password": "12qwaszx",
+    "product_type": "1",
+    "high_series_type": "",
+    "is_history": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "vip_best_choice": {
+    "user_name": "13501000112",
+    "password": "12qwaszx",
+    "product_type": "3",
+    "high_series_type": "3",
+    "is_history": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "vip_fixed_income": {
+    "user_name": "13501000112",
+    "password": "12qwaszx",
+    "product_type": "3",
+    "high_series_type": "1",
+    "is_history": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "vip_cash_management": {
+    "user_name": "13501000112",
+    "password": "12qwaszx",
+    "product_type": "3",
+    "high_series_type": "2",
+    "is_history": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

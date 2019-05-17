@@ -1,0 +1,29 @@
+{
+  "fund_hold_money": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "product_type": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "dqb_hold_money": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "product_type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "vip_hold_money": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "product_type": "3",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

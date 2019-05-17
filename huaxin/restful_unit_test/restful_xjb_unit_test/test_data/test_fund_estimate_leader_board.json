@@ -1,0 +1,68 @@
+{
+  "default_asc": {
+    "user_name": "17200000165",
+    "password": "12qwaszx",
+    "fund_type": "2",
+    "sort_type": "0",
+    "order_desc": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "estimate_nav_asc": {
+    "user_name": "17200000165",
+    "password": "12qwaszx",
+    "fund_type": "2",
+    "sort_type": "1",
+    "order_desc": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "estimate_gains_asc": {
+    "user_name": "17200000165",
+    "password": "12qwaszx",
+    "fund_type": "2",
+    "sort_type": "2",
+    "order_desc": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "default_desc": {
+    "user_name": "17200000165",
+    "password": "12qwaszx",
+    "fund_type": "2",
+    "sort_type": "0",
+    "order_desc": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "estimate_nav_desc": {
+    "user_name": "17200000165",
+    "password": "12qwaszx",
+    "fund_type": "2",
+    "sort_type": "1",
+    "order_desc": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "estimate_gains_desc": {
+    "user_name": "17200000165",
+    "password": "12qwaszx",
+    "fund_type": "2",
+    "sort_type": "2",
+    "order_desc": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

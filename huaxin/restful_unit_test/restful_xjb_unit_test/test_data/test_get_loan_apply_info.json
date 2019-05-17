@@ -1,0 +1,62 @@
+{
+  "two_decimal": {
+    "user_name": "13501000103",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "loan_amt": "102.36",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "zero": {
+    "user_name": "13501000103",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "loan_amt": "0",
+    "assert_info": {
+      "returnCode": "081582",
+      "returnMsg": "质押金额不合法"
+    }
+  },
+  "3_decimal": {
+    "user_name": "13501000103",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "loan_amt": "0.878",
+    "assert_info": {
+      "returnCode": "081582",
+      "returnMsg": "质押金额不合法"
+    }
+  },
+  "blank_product_id": {
+    "user_name": "13501000103",
+    "password": "12qwaszx",
+    "product_id": "",
+    "loan_amt": "100",
+    "assert_info": {
+      "returnCode": "081514",
+      "returnMsg": "产品id不能为空"
+    }
+  },
+  "blank_amt": {
+    "user_name": "13501000103",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "loan_amt": "",
+    "assert_info": {
+      "returnCode": "081582",
+      "returnMsg": "质押金额不合法"
+    }
+  },
+  "negative_amt": {
+    "user_name": "13501000103",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "loan_amt": "-1.34",
+    "assert_info": {
+      "returnCode": "081582",
+      "returnMsg": "质押金额不合法"
+    }
+  }
+}

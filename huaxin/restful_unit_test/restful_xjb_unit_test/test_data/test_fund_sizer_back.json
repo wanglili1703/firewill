@@ -1,0 +1,196 @@
+{
+ "total_fund_companies": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "company_id": "",
+    "grade_org_id": "10668",
+    "grade_level": "5",
+    "rise_min": "-100",
+    "rise_max": "100",
+    "rise_section": "4",
+    "page_no": "1",
+    "page_size": "20",
+    "fund_type": "",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+"by_fund_type": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "company_id": "",
+    "grade_org_id": "10668",
+    "grade_level": "5",
+    "rise_min": "-100",
+    "rise_max": "100",
+    "rise_section": "4",
+    "page_no": "1",
+    "page_size": "20",
+    "fund_type": "",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "boshi_fund_company": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "company_id": "41509",
+    "grade_org_id": "10668",
+    "grade_level": "5",
+    "rise_min": "0",
+    "rise_max": "100",
+    "rise_section": "4",
+    "page_no": "1",
+    "page_size": "20",
+    "fund_type": "3",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "test_boshi_fund_company": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "company_id": "41509",
+    "grade_org_id": "2921",
+    "grade_level": "4",
+    "rise_min": "0",
+    "rise_max": "100",
+    "rise_section": "4",
+    "page_no": "1",
+    "page_size": "20",
+    "fund_type": "",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "no_data_returned_for_rise_range": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "company_id": "41509",
+    "grade_org_id": "2921",
+    "grade_level": "4",
+    "rise_min": "100",
+    "rise_max": "100",
+    "rise_section": "4",
+    "page_no": "1",
+    "page_size": "20",
+    "fund_type": "",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "teset_rise_range": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "company_id": "41509",
+    "grade_org_id": "2921",
+    "grade_level": "2",
+    "rise_min": "-14",
+    "rise_max": "85",
+    "rise_section": "3",
+    "page_no": "1",
+    "page_size": "20",
+    "fund_type": "",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "4_star_3_years_fund_company": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "company_id": "41509",
+    "grade_org_id": "2921",
+    "grade_level": "4",
+    "rise_min": "0",
+    "rise_max": "100",
+    "rise_section": "5",
+    "page_no": "1",
+    "page_size": "20",
+    "fund_type": "",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "wrong_company_id": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "company_id": "415039",
+    "grade_org_id": "2921",
+    "grade_level": "4",
+    "rise_min": "0",
+    "rise_max": "100",
+    "rise_section": "5",
+    "page_no": "1",
+    "page_size": "20",
+    "fund_type": "",
+    "assert_info": {"returnCode": "081594", "returnMsg": "请求异常"}
+  },
+
+  "over_rise_max": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "company_id": "41503",
+    "grade_org_id": "2921",
+    "grade_level": "4",
+    "rise_min": "-100.01",
+    "rise_max": "120",
+    "rise_section": "5",
+    "page_no": "1",
+    "page_size": "20",
+    "fund_type": "",
+    "assert_info": {"returnCode": "081594", "returnMsg": "请求异常"}
+  },
+
+  "invalid_rise_section": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "company_id": "41503",
+    "grade_org_id": "2921",
+    "grade_level": "4",
+    "rise_min": "0",
+    "rise_max": "100",
+    "rise_section": "9",
+    "page_no": "1",
+    "page_size": "20",
+    "fund_type": "",
+    "assert_info": {"returnCode": "081594", "returnMsg": "请求异常"}
+  },
+
+  "empty_rise_min": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "company_id": "41503",
+    "grade_org_id": "2921",
+    "grade_level": "4",
+    "rise_min": "",
+    "rise_max": "100",
+    "rise_section": "2",
+    "page_no": "1",
+    "page_size": "20",
+    "fund_type": "",
+    "assert_info": {"returnCode": "081594", "returnMsg": "请求异常"}
+  },
+
+  "empty_grade_org_id": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "company_id": "41503",
+    "grade_org_id": "",
+    "grade_level": "4",
+    "rise_min": "",
+    "rise_max": "100",
+    "rise_section": "2",
+    "page_no": "1",
+    "page_size": "20",
+    "fund_type": "",
+    "assert_info": {"returnCode": "081594", "returnMsg": "请求异常"}
+  },
+
+  "empty_company_id": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "company_id": "",
+    "grade_org_id": "2921",
+    "grade_level": "4",
+    "rise_min": "",
+    "rise_max": "100",
+    "rise_section": "2",
+    "page_no": "1",
+    "page_size": "20",
+    "fund_type": "",
+    "assert_info": {"returnCode": "081594", "returnMsg": "请求异常"}
+  }
+}

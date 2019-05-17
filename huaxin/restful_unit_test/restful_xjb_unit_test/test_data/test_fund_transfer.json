@@ -1,0 +1,198 @@
+{
+  "fund_transfer_normal_currency_to_mix": {
+    "user_name": "17200000165",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000810",
+    "to_fund_id": "05#000219",
+    "expire_dispose_type": "0",
+    "transfer_share": "1",
+    "type": "0",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_transfer_normal_currency_to_bonds": {
+    "user_name": "17200000170",
+    "password": "12qwaszx",
+    "from_fund_id": "05#050033",
+    "to_fund_id": "05#000752",
+    "expire_dispose_type": "0",
+    "transfer_share": "1",
+    "type": "0",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_transfer_normal_currency_to_currency": {
+    "user_name": "17200000170",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000810",
+    "to_fund_id": "05#000734",
+    "expire_dispose_type": "0",
+    "transfer_share": "1",
+    "type": "0",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_transfer_normal_currency_to_stock": {
+    "user_name": "17200000170",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000810",
+    "to_fund_id": "05#001236",
+    "expire_dispose_type": "0",
+    "transfer_share": "1",
+    "type": "0",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fast_fund_transfer": {
+    "user_name": "17200000170",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000810",
+    "to_fund_id": "74#000812",
+    "expire_dispose_type": "0",
+    "transfer_share": "5",
+    "type": "1",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "transfer_share_null": {
+    "user_name": "17200000165",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000810",
+    "to_fund_id": "05#000219",
+    "expire_dispose_type": "0",
+    "transfer_share": "",
+    "type": "0",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081546",
+      "returnMsg": "交易份额不能为空"
+    }
+  },
+  "transfer_share_to_myself": {
+    "user_name": "17200000165",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000810",
+    "to_fund_id": "05#000810",
+    "expire_dispose_type": "0",
+    "transfer_share": "1",
+    "type": "0",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "013183",
+      "returnMsg": "转入基金与转出基金重复！"
+    }
+  },
+  "fund_transfer_normal_share_not_int": {
+    "user_name": "17200000165",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000810",
+    "to_fund_id": "05#000219",
+    "expire_dispose_type": "0",
+    "transfer_share": "1.355",
+    "type": "0",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081548",
+      "returnMsg": "交易份额不合法"
+    }
+  },
+  "fund_transfer_normal_from_prod_null": {
+    "user_name": "17200000165",
+    "password": "12qwaszx",
+    "from_fund_id": "",
+    "to_fund_id": "05#000219",
+    "expire_dispose_type": "0",
+    "transfer_share": "1",
+    "type": "0",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "013003",
+      "returnMsg": "产品信息查询失败"
+    }
+  },
+  "fund_transfer_normal_to_prod_null": {
+    "user_name": "17200000165",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000810",
+    "to_fund_id": "",
+    "expire_dispose_type": "0",
+    "transfer_share": "1",
+    "type": "0",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "020001",
+      "returnMsg": "参数不能为空"
+    }
+  },
+  "fund_transfer_normal_to_xjb": {
+    "user_name": "17200000165",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000810",
+    "to_fund_id": "ZX05#000730",
+    "expire_dispose_type": "0",
+    "transfer_share": "1",
+    "type": "0",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "013178",
+      "returnMsg": "普通转换仅支持同一管理人旗下基金"
+    }
+  },
+  "fund_transfer_normal_large_share": {
+    "user_name": "17200000165",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000810",
+    "to_fund_id": "05#000219",
+    "expire_dispose_type": "0",
+    "transfer_share": "99999999",
+    "type": "0",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "013031",
+      "returnMsg": "余额不足，请修改购买金额或更换支付方式"
+    }
+  },
+  "fast_fund_transfer_share_lower": {
+    "user_name": "17200000170",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000810",
+    "to_fund_id": "74#000812",
+    "expire_dispose_type": "0",
+    "transfer_share": "1",
+    "type": "1",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "014032",
+      "returnMsg": "低于最低追加认申购金额"
+    }
+  },
+  "fund_transfer_fast_to_normal": {
+    "user_name": "17200000170",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000810",
+    "to_fund_id": "74#000812",
+    "expire_dispose_type": "0",
+    "transfer_share": "1",
+    "type": "0",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "013178",
+      "returnMsg": "普通转换仅支持同一管理人旗下基金"
+    }
+  }
+}

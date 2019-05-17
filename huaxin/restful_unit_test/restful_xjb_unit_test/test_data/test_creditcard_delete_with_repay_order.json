@@ -1,0 +1,14 @@
+{
+  "success_delete": {
+    "user_name": "13501000070",
+    "password": "12qwaszx",
+    "card_no": "5280575351853655",
+    "is_successful": "true",
+    "trade_password": "135790",
+    "image_id": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

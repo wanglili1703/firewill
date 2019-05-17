@@ -1,0 +1,46 @@
+{
+  "small_amt_mixed": {
+    "user_name": "13501000071",
+    "password": "12qwaszx",
+    "purchase_amt": "1000",
+    "fund_id": "31#001156",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "different_rate_500000": {
+    "user_name": "13501000071",
+    "password": "12qwaszx",
+    "purchase_amt": "500000",
+    "fund_id": "31#001156",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "different_rate_5000000": {
+    "user_name": "13501000071",
+    "password": "12qwaszx",
+    "purchase_amt": "5000000",
+    "fund_id": "31#001156",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "purchase_amt_is_zero": {
+    "user_name": "13501000071",
+    "password": "12qwaszx",
+    "purchase_amt": "0",
+    "fund_id": "31#001156",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  }
+}

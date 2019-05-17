@@ -1,0 +1,12 @@
+{
+  "dqb_redeem_get_income_info": {
+    "user_name": "18931006600",
+    "login_password": "1234abcd",
+    "product_id": "899#SP9204",
+    "trade_amt": "10",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

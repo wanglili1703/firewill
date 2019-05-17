@@ -1,0 +1,29 @@
+{
+  "fund_is_fav": {
+    "user_name": "17200000170",
+    "password": "12qwaszx",
+    "fund_id": "27#000117",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_not_fav": {
+    "user_name": "17200000170",
+    "password": "12qwaszx",
+    "fund_id": "31#310379",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_id_is_null": {
+    "user_name": "17200000170",
+    "password": "12qwaszx",
+    "fund_id": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

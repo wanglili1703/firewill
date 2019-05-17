@@ -1,0 +1,47 @@
+{
+  "close_sms_login": {
+    "user_name": "17200000175",
+    "password": "12qwaszx",
+    "open_status": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "open_sms_login": {
+    "user_name": "17200000175",
+    "password": "12qwaszx",
+    "open_status": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "not_auth_close_sms": {
+    "user_name": "17200000012",
+    "password": "12qwaszx",
+    "open_status": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "not_auth_open_sms": {
+    "user_name": "17200000012",
+    "password": "12qwaszx",
+    "open_status": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "status_none": {
+    "user_name": "17200000012",
+    "password": "12qwaszx",
+    "open_status": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

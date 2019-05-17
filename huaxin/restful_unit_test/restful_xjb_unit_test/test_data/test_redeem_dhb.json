@@ -1,0 +1,68 @@
+{
+  "int": {
+    "user_name": "17200000183",
+    "password": "12qwaszx",
+    "product_id": "899#S88005",
+    "amt": "1",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "invalid_amt_zero": {
+    "user_name": "17200000183",
+    "password": "12qwaszx",
+    "product_id": "899#S88005",
+    "amt": "0",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "invalid_amt_nagative": {
+    "user_name": "17200000183",
+    "password": "12qwaszx",
+    "product_id": "899#S88005",
+    "amt": "-1",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "float_amt": {
+    "user_name": "17200000183",
+    "password": "12qwaszx",
+    "product_id": "899#S88005",
+    "amt": "1.1",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "013071",
+      "returnMsg": "您赎回的金额必须是1.00元的整数倍，请重新输入"
+    }
+  },
+  "invalid_amt_special_character": {
+    "user_name": "17200000183",
+    "password": "12qwaszx",
+    "product_id": "899#S88005",
+    "amt": "1abc",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "product_id_null": {
+    "user_name": "17200000183",
+    "password": "12qwaszx",
+    "product_id": "",
+    "amt": "1",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081514",
+      "returnMsg": "产品id不能为空"
+    }
+  }
+}

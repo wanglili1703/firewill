@@ -1,0 +1,23 @@
+{
+  "1_sale_fund": {
+    "user_name": "13920712463",
+    "password": "12qwaszx",
+    "tip_type": "1",
+    "fund_id": "05#000802",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "0_sale_fund": {
+    "user_name": "13920712463",
+    "password": "12qwaszx",
+    "tip_type": "0",
+    "fund_id": "05#000802",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "get_combination_plan": {
+    "user_name": "17300001127",
+    "password": "12qwaszx",
+    "product_id": "H9#H92360",
+    "should_pay_amt": "1000",
+    "serial_no":"",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

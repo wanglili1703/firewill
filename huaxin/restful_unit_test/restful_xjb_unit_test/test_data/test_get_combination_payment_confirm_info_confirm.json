@@ -1,0 +1,103 @@
+{
+  "xjb_fund": {
+    "user_name": "17300001127",
+    "password": "12qwaszx",
+    "pay_type": "S",
+    "product_id": "H9#H92360",
+    "should_pay_amt": "100000",
+    "serial_no":"",
+    "product_ids": "ZX05#000730,42#F0001",
+    "redeem_amts": "10000,90000",
+    "set_default": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "xjb_vip_prod_m_fund": {
+    "user_name": "17300001127",
+    "password": "12qwaszx",
+    "pay_type": "S",
+    "product_id": "H9#H92360",
+    "should_pay_amt": "2000000",
+    "serial_no":"",
+    "product_ids": "ZX05#000730,H9#H92361",
+    "redeem_amts": "1000000,1200000",
+    "set_default": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "xjb_vip_prod_pledge": {
+    "user_name": "17300001127",
+    "password": "12qwaszx",
+    "pay_type": "S",
+    "product_id": "H9#H92360",
+    "should_pay_amt": "2000000",
+    "serial_no":"",
+    "product_ids": "ZX05#000730,H9#H90639",
+    "redeem_amts": "1000000,1200000",
+    "set_default": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "xjb_fund_pledge_mfund_dhb": {
+    "user_name": "17300001127",
+    "password": "12qwaszx",
+    "pay_type": "S",
+    "product_id": "H9#H92360",
+    "should_pay_amt": "3000000",
+    "serial_no":"",
+    "product_ids": "ZX05#000730,42#F0001,H9#H90639,H9#H92361,899#S20068",
+    "redeem_amts": "1000000,900000,100000,1700000,1000000",
+    "set_default": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "vip_prod_m_fund_fund": {
+    "user_name": "17300001127",
+    "password": "12qwaszx",
+    "pay_type": "S",
+    "product_id": "H9#H92360",
+    "should_pay_amt": "2100000",
+    "serial_no":"",
+    "product_ids": "42#F0001,H9#H92361",
+    "redeem_amts": "1500000,1200000",
+    "set_default": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "vip_prod_m_fund_pledeg": {
+    "user_name": "17300001127",
+    "password": "12qwaszx",
+    "pay_type": "S",
+    "product_id": "H9#H92360",
+    "should_pay_amt": "2100000",
+    "serial_no":"",
+    "product_ids": "42#F0001,H9#H90639",
+    "redeem_amts": "1500000,1200000",
+    "set_default": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

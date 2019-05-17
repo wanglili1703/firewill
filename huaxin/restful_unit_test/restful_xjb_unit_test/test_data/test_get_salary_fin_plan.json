@@ -1,0 +1,20 @@
+{
+  "history_plans": {
+    "user_name": "13501000111",
+    "password": "12qwaszx",
+    "is_history": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "non_history_plans": {
+    "user_name": "13501000111",
+    "password": "12qwaszx",
+    "is_history": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

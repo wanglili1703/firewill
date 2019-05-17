@@ -1,0 +1,17 @@
+{
+  "points_coupon_success_dq": {
+    "user_name": "13501000097",
+    "password": "12qwaszx",
+    "product_id": "899#SG5004",
+    "points": "",
+    "pay_amt": "100",
+    "prod_type_scope_val": "'1#1'",
+    "trade_password": "135790",
+    "is_use_points": "1",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

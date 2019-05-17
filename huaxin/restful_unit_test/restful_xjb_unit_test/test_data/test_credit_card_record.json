@@ -1,0 +1,46 @@
+{
+  "has_records": {
+    "user_name": "13501000065",
+    "password": "12qwaszx",
+    "card_no": "6259195434551356",
+    "card_type": "2",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "no_records": {
+    "user_name": "13501000069",
+    "password": "12qwaszx",
+    "card_no": "6259615354458633",
+    "card_type": "2",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "wrong_card_type": {
+    "user_name": "13501000069",
+    "password": "12qwaszx",
+    "card_no": "6259615354458633",
+    "card_type": "1",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "080001",
+      "returnMsg": "服务异常"
+    }
+  },
+  "others_record": {
+    "user_name": "13501000069",
+    "password": "12qwaszx",
+    "card_no": "6259195434551356",
+    "card_type": "2",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "all_tradelist": {
+    "user_name": "13501000074",
+    "password": "12qwaszx",
+    "product_type": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "dingqi_tradelist": {
+    "user_name": "13501000074",
+    "password": "12qwaszx",
+    "product_type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_tradelist": {
+    "user_name": "13501000074",
+    "password": "12qwaszx",
+    "product_type": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "vipproduct_tradelist": {
+    "user_name": "13501000074",
+    "password": "12qwaszx",
+    "product_type": "3",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "xjb_tradelist": {
+    "user_name": "13501000074",
+    "password": "12qwaszx",
+    "product_type": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "0_0_trade_detail": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "points_type": "0",
+    "type": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "0_1_trade_detail": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "points_type": "1",
+    "type": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "1_0_trade_detail": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "points_type": "0",
+    "type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "1_1_trade_detail": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "points_type": "1",
+    "type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

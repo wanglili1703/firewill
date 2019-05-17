@@ -1,0 +1,17 @@
+{
+  "handle_invest_plan_validate_dada1": {
+    "user_name": "13051530604",
+    "password": "12qwaszx",
+    "fundId": "05#000802",
+    "payType":"0",
+    "eachInvestAmt":"10",
+    "payCycle":"1#W",
+    "payDay":"W#1",
+    "isConfirmBeyondRisk":"0",
+    "trade_password":"135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

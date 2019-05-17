@@ -1,0 +1,52 @@
+{
+  "hybird_fund_nav_history": {
+    "user_name": "17200000172",
+    "password": "12qwaszx",
+    "start_date": "20170913",
+    "fund_id": "27#000117",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_id_is_null": {
+    "user_name": "17200000172",
+    "password": "12qwaszx",
+    "start_date": "20170913",
+    "fund_id": "",
+    "assert_info": {
+      "returnCode": "081544",
+      "returnMsg": "基金id不能为空"
+    }
+  },
+  "stock_date_is_null": {
+    "user_name": "17200000172",
+    "password": "12qwaszx",
+    "start_date": "",
+    "fund_id": "0Z#001672",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "bonds_fund_nav_history": {
+    "user_name": "17200000172",
+    "password": "12qwaszx",
+    "start_date": "20170913",
+    "fund_id": "32#320008",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "QDII_fund_nav_history": {
+    "user_name": "17200000172",
+    "password": "12qwaszx",
+    "start_date": "20170913",
+    "fund_id": "17#217015",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

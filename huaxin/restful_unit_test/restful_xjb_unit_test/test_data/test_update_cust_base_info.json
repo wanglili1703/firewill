@@ -1,0 +1,27 @@
+{
+  "user_for_change": {
+    "user_name": "15000203095",
+    "password": "12qwaszx",
+    "email": "12390@163.com",
+    "address": "上海市黄浦区",
+    "pcIds": "310000,310100,310101",
+    "area": "南京西路399号明天广场21",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "user_for_invalid_email": {
+    "user_name": "15000203095",
+    "password": "12qwaszx",
+    "email": "1239@@163.com",
+    "address": "上海市黄浦区",
+    "pcIds": "310000,310100,310101",
+    "area": "南京西路399号明天广场21",
+    "assert_info": {
+      "returnCode": "030126",
+      "returnMsg": "邮箱格式不正确"
+    }
+  }
+}

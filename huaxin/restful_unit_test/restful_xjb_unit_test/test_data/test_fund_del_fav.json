@@ -1,0 +1,82 @@
+{
+  "test_fund_del_fav_list": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "objectIds": "05#050004",
+    "favType": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_del_list": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "objectIds": "05#000652",
+    "favType": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "find_all_list": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "objectIds": "05#000219",
+    "favType": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "del_fav_list": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "objectIds": "05#050022",
+    "favType": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_del_fav_list": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "objectIds": "05#050022",
+    "favType": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "kanhaota": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "objectIds": "05#A09201",
+    "favType": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_compare": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "objectIds": "27#002939",
+    "favType": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_combination": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "objectIds": "39#398001",
+    "favType": "3",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "loan_repay_detail": {
+    "user_name": "13933647697",
+    "password": "12qwaszx",
+    "my_loan_id": "012017091459BA22BF034A1b2F21",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "loan_repay_detail_null_id": {
+    "user_name": "13933647697",
+    "password": "12qwaszx",
+    "my_loan_id": "",
+    "assert_info": {
+      "returnCode": "081578",
+      "returnMsg": "质押id为空"
+    }
+  },
+
+  "loan_repay_detail_not_exists_id": {
+    "user_name": "13933647697",
+    "password": "12qwaszx",
+    "my_loan_id": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "sms_login": {
+    "user_name": "17060001186",
+    "captcha_code": "567891",
+    "mobile_code": "123456",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "mobile_not_exists": {
+    "user_name": "17777777777",
+    "captcha_code": "567891",
+    "mobile_code": "123456",
+    "assert_info": {
+      "returnCode": "030005",
+      "returnMsg": "您输入的手机号码有误或尚未注册现金宝账号"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "correct_mobile_code": {
+    "user_name": "15000203099",
+    "password": "12qwaszx",
+    "mobile_code": "123456",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "user_no_p": {
+    "user_name": "15000203090",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "user_no_p_improve_card": {
+    "user_name": "15627284754",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "user_no_p_activate_card": {
+    "user_name": "18890236677",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "user_no_p_activate_improve_card": {
+    "user_name": "18894475775",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "user_p_improve_card": {
+    "user_name": "13920712463",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "user_p_activate_card": {
+    "user_name": "15000203092",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "user_p_activate_improve_card": {
+    "user_name": "15690696507",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}
+

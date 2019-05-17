@@ -1,0 +1,145 @@
+{
+  "repay_apply": {
+    "user_name": "17200000209",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "my_loan_id": "012017091859BFAC4E03DF1bF221",
+    "repay_capital_amt": "50",
+    "repay_amt": "50.00",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "loan_id_is_null": {
+    "user_name": "17200000209",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "my_loan_id": "",
+    "repay_capital_amt": "50",
+    "repay_amt": "50.00",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081578",
+      "returnMsg": "质押id为空"
+    }
+  },
+  "less_repay_amt": {
+    "user_name": "17200000209",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "my_loan_id": "012017091859BFAC4E03DF1bF221",
+    "repay_capital_amt": "5",
+    "repay_amt": "1.00",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "014105",
+      "returnMsg": "还款本金要大于最低应还本金"
+    }
+  },
+  "product_is_null": {
+    "user_name": "17200000209",
+    "password": "12qwaszx",
+    "product_id": "",
+    "my_loan_id": "012017091859BFAC4E03DF1bF221",
+    "repay_capital_amt": "50",
+    "repay_amt": "50.00",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "011048",
+      "returnMsg": "订单不存在"
+    }
+  },
+  "repay_amt_repay_capital_amt_not_match": {
+    "user_name": "17200000209",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "my_loan_id": "012017091859BFAC4E03DF1bF221",
+    "repay_capital_amt": "50",
+    "repay_amt": "60",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "014106",
+      "returnMsg": "还款金额与还款本金不匹配"
+    }
+  },
+  "repay_amt_is_negative": {
+    "user_name": "17200000209",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "my_loan_id": "012017091859BFAC4E03DF1bF221",
+    "repay_capital_amt": "-50",
+    "repay_amt": "-50.00",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081582",
+      "returnMsg": "质押金额不合法"
+    }
+  },
+  "repay_capital_amt_is_null": {
+    "user_name": "17200000209",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "my_loan_id": "012017091859BFAC4E03DF1bF221",
+    "repay_capital_amt": "",
+    "repay_amt": "50.00",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081582",
+      "returnMsg": "质押金额不合法"
+    }
+  },
+  "loan_id_not_exist": {
+    "user_name": "17200000209",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "my_loan_id": "74",
+    "repay_capital_amt": "50",
+    "repay_amt": "50.00",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "011048",
+      "returnMsg": "订单不存在"
+    }
+  },
+  "trade_password_is_null": {
+    "user_name": "17200000209",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "my_loan_id": "012017091859BFAC4E03DF1bF221",
+    "repay_capital_amt": "50",
+    "repay_amt": "50.00",
+    "trade_password": "",
+    "assert_info": {
+      "returnCode": "081504",
+      "returnMsg": "请输入交易密码"
+    }
+  },
+  "repay_amt_too_large": {
+    "user_name": "17200000209",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "my_loan_id": "012017091859BFAC4E03DF1bF221",
+    "repay_capital_amt": "99999999",
+    "repay_amt": "99999999.00",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "014102",
+      "returnMsg": "还款金额不能高于借款金额"
+    }
+  },
+  "amt_is_3_decimal_point": {
+    "user_name": "17200000209",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "my_loan_id": "012017091859BFAC4E03DF1bF221",
+    "repay_capital_amt": "50.222",
+    "repay_amt": "50.222",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081582",
+      "returnMsg": "质押金额不合法"
+    }
+  }
+}

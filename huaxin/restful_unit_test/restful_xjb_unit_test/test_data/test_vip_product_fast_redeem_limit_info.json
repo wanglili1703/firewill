@@ -1,0 +1,21 @@
+{
+  "yes_vip_product_fast_user": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "product_id": "H9#H99220",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "no_vip_product_fast_user": {
+    "user_name": "15684471232",
+    "password": "12qwaszx",
+    "product_id": "H9#H99220",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

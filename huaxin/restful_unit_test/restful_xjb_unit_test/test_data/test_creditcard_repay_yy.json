@@ -1,0 +1,62 @@
+{
+  "invalid_amt_0": {
+    "user_name": "13501000067",
+    "password": "12qwaszx",
+    "amt": "0",
+    "image_id": "1",
+    "trade_password": "135790",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "invalida_amt_negative": {
+    "user_name": "13501000067",
+    "password": "12qwaszx",
+    "amt": "-1",
+    "image_id": "1",
+    "trade_password": "135790",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "invalida_amt_space": {
+    "user_name": "13501000067",
+    "password": "12qwaszx",
+    "amt": "1 2",
+    "image_id": "1",
+    "trade_password": "135790",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "invalida_amt_character": {
+    "user_name": "13501000067",
+    "password": "12qwaszx",
+    "amt": "1abc",
+    "image_id": "1",
+    "trade_password": "135790",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "repay_order_successful": {
+    "user_name": "13501000068",
+    "password": "12qwaszx",
+    "amt": "0.01",
+    "image_id": "1",
+    "trade_password": "135790",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

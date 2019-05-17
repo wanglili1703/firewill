@@ -1,0 +1,19 @@
+{
+  "no_credit_card": {
+    "user_name": "13501000056",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "7_credit_cards": {
+    "user_name": "13501000057",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

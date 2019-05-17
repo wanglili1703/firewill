@@ -1,0 +1,23 @@
+{
+ "close_message": {
+    "user_name": "13968138303",
+    "password": "12qwaszx",
+    "category_no": "bd16b4e1d34e463cae63559ea2d2d304",
+    "status": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "open_message": {
+    "user_name": "13968138303",
+    "password": "12qwaszx",
+    "category_no": "49e174163f4d4c6a953b0f7d6b044b2e",
+    "status": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

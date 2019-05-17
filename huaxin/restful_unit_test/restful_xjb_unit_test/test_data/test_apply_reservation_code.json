@@ -1,0 +1,43 @@
+{
+  "apply_reservation_code": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "product_id": "899#SP13147",
+    "yy_amt": "10",
+    "money_can_use_start_date": "20170925",
+    "money_can_use_end_date": "20181023",
+    "mobile": "15000203051",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "less_apply_amt": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "product_id": "899#SP13147",
+    "yy_amt": "1",
+    "money_can_use_start_date": "20170925",
+    "money_can_use_end_date": "20181023",
+    "mobile": "15000203051",
+    "assert_info": {
+      "returnCode": "011077",
+      "returnMsg": "申请金额不能小于起投金额"
+    }
+  },
+
+  "duplicate_apply": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "product_id": "H9#H90088",
+    "yy_amt": "1000",
+    "money_can_use_start_date": "20170925",
+    "money_can_use_end_date": "20181230",
+    "mobile": "15000203051",
+    "assert_info": {
+      "returnCode": "011076",
+      "returnMsg": "该客户信息对应的预约码申请已存在"
+    }
+  }
+}

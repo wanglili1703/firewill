@@ -1,0 +1,78 @@
+{
+  "int_share": {
+    "user_name": "18831881115",
+    "password": "12qwaszx",
+    "sold_share": "1",
+    "fund_id": "05#000802",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "zero_share": {
+    "user_name": "18831881115",
+    "password": "12qwaszx",
+    "sold_share": "0",
+    "fund_id": "05#000802",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+
+  "null_share": {
+    "user_name": "18831881115",
+    "password": "12qwaszx",
+    "sold_share": "",
+    "fund_id": "05#000802",
+    "assert_info": {
+      "returnCode": "081520",
+      "returnMsg": "请输入交易金额"
+    }
+  },
+
+  "nagtive_share": {
+    "user_name": "18831881115",
+    "password": "12qwaszx",
+    "sold_share": "-9",
+    "fund_id": "05#000802",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+
+  "abnormal_share": {
+    "user_name": "18831881115",
+    "password": "12qwaszx",
+    "sold_share": "abd",
+    "fund_id": "05#000802",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+
+  "more_share": {
+    "user_name": "18831881115",
+    "password": "12qwaszx",
+    "sold_share": "8888888888888",
+    "fund_id": "05#000802",
+    "assert_info": {
+      "returnCode": "011012",
+      "returnMsg": "授信账户余额不足"
+    }
+  },
+
+  "less_share": {
+    "user_name": "18831881115",
+    "password": "12qwaszx",
+    "sold_share": "0.001",
+    "fund_id": "05#000802",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  }
+}

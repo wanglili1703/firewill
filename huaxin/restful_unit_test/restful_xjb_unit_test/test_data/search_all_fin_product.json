@@ -1,0 +1,38 @@
+{
+  "product_type_is_2": {
+  "user_name": "17200000321",
+  "password": "12qwaszx",
+  "keyword": "restful",
+  "assert_info": {
+    "returnCode": "000000",
+    "returnMsg": ""
+  }
+},
+  "product_type_is_1_dqb": {
+    "user_name": "17200000321",
+    "password": "12qwaszx",
+    "keyword": "定期",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "product_type_is_1_vip": {
+    "user_name": "17200000321",
+    "password": "12qwaszx",
+    "keyword": "高端",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "result_is_null": {
+    "user_name": "17200000321",
+    "password": "12qwaszx",
+    "keyword": "200",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

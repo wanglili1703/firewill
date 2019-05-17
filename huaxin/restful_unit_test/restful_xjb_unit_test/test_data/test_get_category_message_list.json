@@ -1,0 +1,97 @@
+{
+  "normal_user": {
+    "user_name": "18889576951",
+    "password": "12qwaszx",
+    "category_no": "49e174163f4d4c6a953b0f7d6b044b2e",
+    "page_no": "1",
+    "page_size": "100",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+"invalid_categoryno": {
+  "user_name": "18889576951",
+  "password": "12qwaszx",
+  "category_no": "111",
+  "page_no": "1",
+  "page_size": "100",
+  "assert_info": {
+    "returnCode": "000000",
+    "returnMsg": ""
+    }
+  },
+
+  "null_categoryno": {
+    "user_name": "18889576951",
+    "password": "12qwaszx",
+    "category_no": "",
+    "page_no": "1",
+    "page_size": "100",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "null_pageno": {
+    "user_name": "18889576951",
+    "password": "12qwaszx",
+    "category_no": "49e174163f4d4c6a953b0f7d6b044b2e",
+    "page_no": "",
+    "page_size": "100",
+    "assert_info": {
+      "returnCode": "080001",
+      "returnMsg": "服务异常"
+    }
+  },
+
+  "invalid0_pageno": {
+    "user_name": "18889576951",
+    "password": "12qwaszx",
+    "category_no": "49e174163f4d4c6a953b0f7d6b044b2e",
+    "page_no": "0",
+    "page_size": "100",
+    "assert_info": {
+      "returnCode": "080002",
+      "returnMsg": "参数错误"
+    }
+  },
+
+  "invalid1_pageno": {
+    "user_name": "18889576951",
+    "password": "12qwaszx",
+    "category_no": "49e174163f4d4c6a953b0f7d6b044b2e",
+    "page_no": "-1",
+    "page_size": "100",
+    "assert_info": {
+      "returnCode": "080002",
+      "returnMsg": "参数错误"
+    }
+  },
+
+  "invalid0_pagesize": {
+    "user_name": "18889576951",
+    "password": "12qwaszx",
+    "category_no": "49e174163f4d4c6a953b0f7d6b044b2e",
+    "page_no": "1",
+    "page_size": "0",
+    "assert_info": {
+      "returnCode": "080002",
+      "returnMsg": "参数错误"
+    }
+  },
+
+  "invalid1_pagesize": {
+    "user_name": "18889576951",
+    "password": "12qwaszx",
+    "category_no": "49e174163f4d4c6a953b0f7d6b044b2e",
+    "page_no": "1",
+    "page_size": "-1",
+    "assert_info": {
+      "returnCode": "080002",
+      "returnMsg": "参数错误"
+    }
+  }
+}

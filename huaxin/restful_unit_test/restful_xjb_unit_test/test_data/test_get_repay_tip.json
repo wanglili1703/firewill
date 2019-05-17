@@ -1,0 +1,20 @@
+{
+  "get_repay_tip": {
+    "user_name": "17200000357",
+    "password": "12qwaszx",
+    "repay_date": "12",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "repay_date_is_null": {
+    "user_name": "17200000357",
+    "password": "12qwaszx",
+    "repay_date": "",
+    "assert_info": {
+      "returnCode": "081618",
+      "returnMsg": "还贷日期非法"
+    }
+  }
+}

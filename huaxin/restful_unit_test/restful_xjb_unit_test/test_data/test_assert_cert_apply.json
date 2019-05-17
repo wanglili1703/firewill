@@ -1,0 +1,23 @@
+{
+  "0_send_type": {
+    "user_name": "15627284754",
+    "password": "12qwaszx",
+    "send_type": "0",
+    "mobile": "15627284754",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "1_send_type": {
+    "user_name": "15627284754",
+    "password": "12qwaszx",
+    "send_type": "1",
+    "mobile": "15627284754",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

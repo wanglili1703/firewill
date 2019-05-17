@@ -1,0 +1,18 @@
+{
+  "no_signature_user": {
+    "user_name": "15575736152",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "yes_signature_user": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

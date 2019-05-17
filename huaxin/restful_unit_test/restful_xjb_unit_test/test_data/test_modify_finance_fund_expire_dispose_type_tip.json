@@ -1,0 +1,65 @@
+{
+  "1_all_test_modify_expire_dispose_type_tip": {
+    "user_name": "17300000003",
+    "password": "12qwaszx",
+    "expire_dispose_type": "1",
+    "fund_id": "53#530030",
+    "value_date": "2017-12-18",
+    "expire_date": "2018-12-18",
+    "order_no": "",
+    "holding_type": "0",
+    "redeem_value": "4003",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "1_part_test_modify_expire_dispose_type_tip": {
+    "user_name": "17300000002",
+    "password": "12qwaszx",
+    "expire_dispose_type": "1",
+    "fund_id": "53#530030",
+    "value_date": "2017-12-19",
+    "expire_date": "2018-12-19",
+    "order_no": "",
+    "holding_type": "0",
+    "redeem_value": "1900",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "0_part_test_modify_expire_dispose_type_tip": {
+    "user_name": "17300000003",
+    "password": "12qwaszx",
+    "expire_dispose_type": "0",
+    "fund_id": "53#530030",
+    "value_date": "2017-12-20",
+    "expire_date": "2018-12-20",
+    "order_no": "",
+    "holding_type": "0",
+    "redeem_value": "1000",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "0_all_test_modify_expire_dispose_type_tip": {
+    "user_name": "17300000003",
+    "password": "12qwaszx",
+    "expire_dispose_type": "0",
+    "fund_id": "53#530030",
+    "value_date": "2017-12-21",
+    "expire_date": "2018-12-21",
+    "order_no": "",
+    "holding_type": "0",
+    "redeem_value": "2000",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

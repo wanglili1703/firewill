@@ -1,0 +1,21 @@
+{
+  "all_best_choices_fund_list": {
+    "user_name": "13501000051",
+    "password": "12qwaszx",
+    "page_no": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "invalid_page_no_return_blank": {
+    "user_name": "13501000051",
+    "password": "12qwaszx",
+    "page_no": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "user_risk_2": {
+    "user_name": "13834281005",
+    "password": "12qwaszx",
+    "product_id": "05#001429",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "user_risk_3": {
+    "user_name": "18818408558",
+    "password": "12qwaszx",
+    "product_id": "05#001429",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "user_risk_4": {
+    "user_name": "18352600915",
+    "password": "12qwaszx",
+    "product_id": "05#001429",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "user_risk_5": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "product_id": "05#001429",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

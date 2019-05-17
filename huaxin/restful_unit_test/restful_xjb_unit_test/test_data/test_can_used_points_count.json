@@ -1,0 +1,70 @@
+{
+  "fund_purchase": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "product_id": "05#A09201",
+    "amt":"1300",
+    "coupon_ids":"3300033015895367680",
+    "is_use_points":"0",
+    "is_successful":"true",
+    "assert_info": {
+      "returnCode": "000000","returnMsg": ""
+    }
+  },
+
+  "vip_purchase": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "product_id": "H9#H90019",
+    "amt":"900",
+    "coupon_ids":"3300033016637759488",
+    "is_use_points":"0",
+    "is_successful":"true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "vip_subscribe": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "product_id": "H9#H90017",
+    "amt":"1800",
+    "coupon_ids":"3301384238091280384",
+    "is_use_points":"0",
+    "is_successful":"true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "dqb_subscribe": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "product_id": "899#SG5001",
+    "amt":"10000",
+    "coupon_ids":"3301384327190880256",
+    "is_use_points":"0",
+    "is_successful":"true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "dqb_purchase": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "product_id": "899#SG5003",
+    "amt":"100",
+    "coupon_ids":"3301384327190880256",
+    "is_use_points":"",
+    "is_successful":"true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

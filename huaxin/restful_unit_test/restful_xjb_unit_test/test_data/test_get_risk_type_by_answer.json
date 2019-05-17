@@ -1,0 +1,37 @@
+{
+  "get_risk_type_by_answer": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "question_no": "000002",
+    "answer": "b,a,a,d,c,d,d,d,e,d,c,d,e,d,d,b,b,c,c",
+    "score": "83",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "get_risk_type_by_answer_null_question_no": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "question_no": "",
+    "answer": "b,a,a,d,c,d,d,d,e,d,c,d,e,d,d,b,b,c,c",
+    "score": "83",
+    "assert_info": {
+      "returnCode": "030018",
+      "returnMsg": "参数非法"
+    }
+  },
+
+  "get_risk_type_by_answer_null_answer": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "question_no": "000002",
+    "answer": null,
+    "score": "83",
+    "assert_info": {
+      "returnCode": "030018",
+      "returnMsg": "参数非法"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "deleted_card_status": {
+    "user_name": "13501000063",
+    "password": "12qwaszx",
+    "card_no": "4380885568542866",
+    "is_delete": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "new_card_status": {
+    "user_name": "13501000063",
+    "password": "12qwaszx",
+    "card_no": "4380885568542867",
+    "is_delete": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

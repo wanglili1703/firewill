@@ -1,0 +1,31 @@
+{
+  "asset_cert_apply_record_20": {
+    "user_name": "15627284754",
+    "password": "12qwaszx",
+    "page_size": "20",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+ "asset_cert_apply_record_15": {
+    "user_name": "15627284754",
+    "password": "12qwaszx",
+    "page_size": "15",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+ "asset_cert_apply_record_10": {
+    "user_name": "13991114729",
+    "password": "12qwaszx",
+    "page_size": "10",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

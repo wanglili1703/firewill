@@ -1,0 +1,18 @@
+{
+  "normal_user": {
+    "user_name": "15627284754",
+    "password": "12qwaszx",
+    "repay_plan_id": "",
+    "repay_type": "H",
+    "card_id": "0000000000108017",
+    "repay_amt": "20.00",
+    "repay_date": "15",
+    "repay_count": "12",
+    "image_id": "1",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

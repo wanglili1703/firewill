@@ -1,0 +1,20 @@
+{
+  "plan_detail": {
+    "user_name": "17200000274",
+    "password": "12qwaszx",
+    "repay_plan_id": "21",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "plan_id_is_null": {
+    "user_name": "17200000274",
+    "password": "12qwaszx",
+    "repay_plan_id": "",
+    "assert_info": {
+      "returnCode": "081622",
+      "returnMsg": "还贷计划id不能为空"
+    }
+  }
+}

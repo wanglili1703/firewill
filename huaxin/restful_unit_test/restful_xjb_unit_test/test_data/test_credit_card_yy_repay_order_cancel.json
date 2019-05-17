@@ -1,0 +1,32 @@
+{
+  "yy_successful": {
+    "user_name": "13501000068",
+    "password": "12qwaszx",
+    "order_serial_no": "",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "yy_cancel_no_access_order": {
+    "user_name": "13501000068",
+    "password": "12qwaszx",
+    "order_serial_no": "2017031700000006",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "108999",
+      "returnMsg": "没有预约还款记录"
+    }
+  },
+  "yy_cancel_cancelled": {
+    "user_name": "13501000067",
+    "password": "12qwaszx",
+    "order_serial_no": "2017060700000226",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "108999",
+      "returnMsg": "没有预约还款记录"
+    }
+  }
+}

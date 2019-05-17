@@ -1,0 +1,26 @@
+{
+  "fund_cancel": {
+    "user_name": "13501000098",
+    "password": "12qwaszx",
+    "product_id": "63#000800",
+    "amt": "101",
+    "trade_password": "135790",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "vip_cancel": {
+    "user_name": "13501000098",
+    "password": "12qwaszx",
+    "product_id": "H9#H90019",
+    "amt": "1.2",
+    "trade_password": "135790",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

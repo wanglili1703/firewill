@@ -1,0 +1,38 @@
+{
+ "star_level_all_page_descending": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "10668",
+    "order_type": "1",
+    "page_no": "1",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "star_level_all_page_ascending": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "41126",
+    "order_type": "0",
+    "page_no": "10",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "star_level_all_page3_default": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "41644",
+    "order_type": "1",
+    "page_no": "10",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+    "star_level_all_page3_default_like": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "41644",
+    "order_type": "1",
+    "page_no": "10",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  }
+
+}

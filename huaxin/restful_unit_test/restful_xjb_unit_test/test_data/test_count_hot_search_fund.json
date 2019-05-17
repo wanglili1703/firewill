@@ -1,0 +1,31 @@
+{
+ "count_fund_hot_search": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "find_hot_search": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+    "fund_hot_search_count": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+    "funds_hot_search_count": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+    "funds_hot_search_park": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  }
+}

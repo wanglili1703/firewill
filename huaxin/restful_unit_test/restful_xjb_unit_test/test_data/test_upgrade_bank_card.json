@@ -1,0 +1,184 @@
+{
+  "icbc_upgrade": {
+    "user_name": "13501000083",
+    "password": "12qwaszx",
+    "mobile_code": "none",
+    "bank_name": "工商银行",
+    "card_no": "6212261717004598635",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "spdc_upgrade": {
+    "user_name": "13501000083",
+    "password": "12qwaszx",
+    "mobile_code": "none",
+    "bank_name": "浦发银行",
+    "card_no": "6225218543485265",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "abc_upgrade": {
+    "user_name": "13501000083",
+    "password": "12qwaszx",
+    "mobile_code": "none",
+    "bank_name": "农业银行",
+    "card_no": "6228480890266186435",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "boc_upgrade": {
+    "user_name": "13501000083",
+    "password": "12qwaszx",
+    "mobile_code": "none",
+    "bank_name": "中国银行",
+    "card_no": "6217850800053330083",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "ccb_upgrade": {
+    "user_name": "13501000084",
+    "password": "12qwaszx",
+    "mobile_code": "none",
+    "bank_name": "建设银行",
+    "card_no": "6227001197850003165",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "cmbc_upgrade": {
+    "user_name": "13501000084",
+    "password": "12qwaszx",
+    "mobile_code": "none",
+    "bank_name": "民生银行",
+    "card_no": "6226197643885686",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "bocomm_upgrade": {
+    "user_name": "13501000084",
+    "password": "12qwaszx",
+    "mobile_code": "none",
+    "bank_name": "交通银行",
+    "card_no": "6222600720001406352",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "psbc_upgrade": {
+    "user_name": "13501000085",
+    "password": "12qwaszx",
+    "mobile_code": "none",
+    "bank_name": "邮储银行",
+    "card_no": "6217993300023971382",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "pingan_upgrade": {
+    "user_name": "13501000085",
+    "password": "12qwaszx",
+    "mobile_code": "none",
+    "bank_name": "平安银行",
+    "card_no": "6230580000047443525",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "shanghaibank_upgrade": {
+    "user_name": "13501000085",
+    "password": "12qwaszx",
+    "mobile_code": "none",
+    "bank_name": "上海银行",
+    "card_no": "620522546385235586",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "cgbchina_upgrade": {
+    "user_name": "13501000085",
+    "password": "12qwaszx",
+    "mobile_code": "none",
+    "bank_name": "广发银行",
+    "card_no": "6214624921000015286",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "cib_upgrade": {
+    "user_name": "13501000086",
+    "password": "12qwaszx",
+    "mobile_code": "none",
+    "bank_name": "兴业银行",
+    "card_no": "6229082116383523552",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "citic_upgrade": {
+    "user_name": "13501000086",
+    "password": "12qwaszx",
+    "mobile_code": "none",
+    "bank_name": "中信银行",
+    "card_no": "6226980500066632",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "invalid_mobile_code": {
+    "user_name": "13501000086",
+    "password": "12qwaszx",
+    "mobile_code": "434545",
+    "bank_name": "中信银行",
+    "card_no": "6226980500066632",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "030071",
+      "returnMsg": "验证码错误"
+    }
+  },
+   "ceb_upgrade": {
+    "user_name": "13501000086",
+    "password": "12qwaszx",
+    "mobile_code": "none",
+    "bank_name": "光大银行",
+    "card_no": "6226731800124238",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

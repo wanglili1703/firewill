@@ -1,0 +1,21 @@
+{
+  "middle_day": {
+    "user_name": "13501000106",
+    "password": "12qwaszx",
+    "pay_day": "15",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "month_begin": {
+    "user_name": "13501000106",
+    "password": "12qwaszx",
+    "pay_day": "5",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

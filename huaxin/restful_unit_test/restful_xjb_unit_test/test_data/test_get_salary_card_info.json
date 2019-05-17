@@ -1,0 +1,39 @@
+{
+  "get_salary_card_info": {
+    "user_name": "17200000350",
+    "password": "12qwaszx",
+    "employee_id": "15",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "not_confirm_salary_fin_plan": {
+    "user_name": "17200000292",
+    "password": "12qwaszx",
+    "employee_id": "14",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "already_binding_salary_card": {
+    "user_name": "17200000341",
+    "password": "12qwaszx",
+    "employee_id": "13",
+    "assert_info": {
+      "returnCode": "080001",
+      "returnMsg": "服务异常"
+    }
+  },
+  "not_employee": {
+    "user_name": "17200000331",
+    "password": "12qwaszx",
+    "employee_id": "00",
+    "assert_info": {
+      "returnCode": "080001",
+      "returnMsg": "服务异常"
+    }
+  }
+
+}

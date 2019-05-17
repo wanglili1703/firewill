@@ -1,0 +1,38 @@
+{
+  "points_detail_income": {
+    "user_name": "17200000245",
+    "password": "12qwaszx",
+    "type": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "points_detail_expense": {
+    "user_name": "17200000245",
+    "password": "12qwaszx",
+    "type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "points_detai_alll": {
+    "user_name": "17200000245",
+    "password": "12qwaszx",
+    "type": "-1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "type_is_none": {
+    "user_name": "17200000245",
+    "password": "12qwaszx",
+    "type": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+ "test_register_binding_card": {
+    "mobile": "15005243789",
+    "login_password": "a0000000",
+    "card_bin":"622202",
+    "trade_password":"135790",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "test_register_binding_card_page": {
+    "mobile": "15005243789",
+    "login_password": "a0000000",
+    "card_bin":"622202",
+    "trade_password":"135790",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "test_register_binding_card_list": {
+    "mobile": "15005243789",
+    "login_password": "a0000000",
+    "card_bin":"622202",
+    "trade_password":"135790",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "test_register_binding_card_list2": {
+    "mobile": "15005243789",
+    "login_password": "a0000000",
+    "card_bin":"622202",
+    "trade_password":"135790",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "test_register_binding_card_list3": {
+    "mobile": "15005243789",
+    "login_password": "a0000000",
+    "card_bin":"622202",
+    "trade_password":"135790",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  }
+}

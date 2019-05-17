@@ -1,0 +1,29 @@
+{
+  "all": {
+    "user_name": "13501000111",
+    "password": "12qwaszx",
+    "visit_type": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "cust_member_upgrade": {
+    "user_name": "13501000111",
+    "password": "12qwaszx",
+    "visit_type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "member_upgrade": {
+    "user_name": "13501000111",
+    "password": "12qwaszx",
+    "visit_type": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

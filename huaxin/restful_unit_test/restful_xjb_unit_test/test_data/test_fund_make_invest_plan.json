@@ -1,0 +1,32 @@
+{
+  "valid_invest_amount": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "fundId": "05#000802",
+    "payType":"0",
+    "eachInvestAmt":"10",
+    "payCycle":"1#W",
+    "payDay":"W#1",
+    "isConfirmBeyondRisk":"0",
+    "trade_password":"121212",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "invalid_invest_amount": {
+  "user_name": "15000203052",
+  "password": "12qwaszx",
+  "fundId": "05#000802",
+  "payType":"0",
+  "eachInvestAmt":"0",
+  "payCycle":"1#W",
+  "payDay":"W#1",
+  "isConfirmBeyondRisk":"0",
+  "trade_password":"121212",
+  "assert_info": {
+    "returnCode": "081549",
+    "returnMsg": "交易金额不合法"
+    }
+  }
+}

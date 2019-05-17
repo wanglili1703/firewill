@@ -1,0 +1,32 @@
+{
+  "int_normal_amt_success": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "product_id": "H9#H99220",
+    "sold_share": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "decimal_innormal_amt_success": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "product_id": "H9#H99220",
+    "sold_share": "1.5",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "decimal_normal_amt_success": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "product_id": "H9#H99220",
+    "sold_share": "0.1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "own_reserve_code" : {
+    "user_name": "17050000030",
+    "password": "12qwaszx",
+    "reservation_code": "88488134",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "other_reserve_code" : {
+    "user_name": "17050000031",
+    "password": "12qwaszx",
+    "reservation_code": "88488134",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "reserve_code_is_number" : {
+    "user_name": "17050000032",
+    "password": "12qwaszx",
+    "reservation_code": "123456",
+    "assert_info": {
+      "returnCode": "011042",
+      "returnMsg": "该预约码不存在，请输入正确的预约码"
+    }
+  },
+  "reserve_code_is_char" : {
+    "user_name": "17050000032",
+    "password": "12qwaszx",
+    "reservation_code": "qwaszx",
+    "assert_info": {
+      "returnCode": "011042",
+      "returnMsg": "该预约码不存在，请输入正确的预约码"
+    }
+  },
+  "error_reserve_code" : {
+    "user_name": "17050000032",
+    "password": "12qwaszx",
+    "reservation_code": "123456qwaszx",
+    "assert_info": {
+      "returnCode": "011042",
+      "returnMsg": "该预约码不存在，请输入正确的预约码"
+    }
+  },
+  "reserve_code_is_null" : {
+    "user_name": "17050000032",
+    "password": "12qwaszx",
+    "reservation_code": "",
+    "assert_info": {
+      "returnCode": "081524",
+      "returnMsg": "请输入预约码"
+    }
+  },
+  "reserve_code_is_line" : {
+    "user_name": "17050000032",
+    "password": "12qwaszx",
+    "reservation_code": "\n",
+    "assert_info": {
+      "returnCode": "015003",
+      "returnMsg": "参数不能为空"
+    }
+  }
+}

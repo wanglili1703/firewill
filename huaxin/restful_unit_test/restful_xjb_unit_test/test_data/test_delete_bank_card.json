@@ -1,0 +1,27 @@
+{
+  "delete_card_successful": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "bank_card_id": "0000000001002980",
+    "card_no": "6217001300000992",
+    "trade_password": "142536",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "delete_have_money_card": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "bank_card_id": "0000000000097175",
+    "card_no": "621700125564455489",
+    "trade_password": "142536",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "081564",
+      "returnMsg": "当前银行卡上存在可取金额，待取出后方可删除。"
+    }
+  }
+}

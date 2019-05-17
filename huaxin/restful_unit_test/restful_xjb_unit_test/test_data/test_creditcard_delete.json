@@ -1,0 +1,22 @@
+{
+  "delete_card_successful": {
+    "user_name": "13501000064",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "deleted_card": {
+    "user_name": "13501000069",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "109999",
+      "returnMsg": "该卡已删除"
+    }
+  }
+}

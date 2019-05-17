@@ -1,0 +1,31 @@
+{
+  "normal_fund_id": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "fund_id": "05#050106",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "null_fund_id": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "fund_id": "",
+    "assert_info": {
+      "returnCode": "081544",
+      "returnMsg": "基金id不能为空"
+    }
+  },
+
+  "no_exists_fund_id": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "fund_id": "38493",
+    "assert_info": {
+      "returnCode": "020008",
+      "returnMsg": "分红拆分信息不存在"
+    }
+  }
+}

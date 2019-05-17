@@ -1,0 +1,20 @@
+{
+  "could_not_loan": {
+    "user_name": "13501000102",
+    "password": "12qwaszx",
+    "product_id": "H9#H90024",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "can_loan": {
+    "user_name": "13501000101",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

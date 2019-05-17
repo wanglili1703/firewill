@@ -1,0 +1,132 @@
+ {
+  "atm_single_trans": {
+    "user_name": "13501000081",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "limit_type": "0",
+    "limit_amount": "10000",
+    "card_no": "6235954021000000075",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "atm_day_trans": {
+    "user_name": "13501000081",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "limit_type": "1",
+    "limit_amount": "20000",
+    "card_no": "6235954021000000075",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "pos_single_trans": {
+    "user_name": "13501000081",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "limit_type": "2",
+    "limit_amount": "10000",
+    "card_no": "6235954021000000075",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "pos_day_trans": {
+    "user_name": "13501000081",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "limit_type": "3",
+    "limit_amount": "20000",
+    "card_no": "6235954021000000075",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "atm_day_less_than_single_trans": {
+    "user_name": "13501000082",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "limit_type": "1",
+    "limit_amount": "5000",
+    "card_no": "6235954021000000076",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "013106",
+      "returnMsg": "额度配置超过标准"
+    }
+  },
+  "pos_single_over_day_trans": {
+    "user_name": "13501000082",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "limit_type": "2",
+    "limit_amount": "20000",
+    "card_no": "6235954021000000076",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "013106",
+      "returnMsg": "额度配置超过标准"
+    }
+  },
+  "atm_singe_amt_empty": {
+    "user_name": "13501000082",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "limit_type": "0",
+    "limit_amount": "",
+    "card_no": "6235954021000000076",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "081555",
+      "returnMsg": "参数非法"
+    }
+  },
+  "pos_day_trans_over_max": {
+    "user_name": "13501000082",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "limit_type": "3",
+    "limit_amount": "30000",
+    "card_no": "6235954021000000076",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "013106",
+      "returnMsg": "额度配置超过标准"
+    }
+  },
+  "negative": {
+    "user_name": "13501000082",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "limit_type": "3",
+    "limit_amount": "-1000",
+    "card_no": "6235954021000000076",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "013106",
+      "returnMsg": "额度配置超过标准"
+    }
+  },
+  "3_points": {
+    "user_name": "13501000082",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "limit_type": "3",
+    "limit_amount": "100.234",
+    "card_no": "6235954021000000076",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "013106",
+      "returnMsg": "额度配置超过标准"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "login_userinfo_right_1": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "login_userinfo_right_2": {
+    "user_name": "13501000074",
+    "password": "12qwaszx",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "login_username_wrong": {
+    "user_name": "1350100038",
+    "password": "a0000000",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "030074",
+      "returnMsg": "请输入正确的手机号码或者身份证号码"
+    }
+  },
+  "login_username_wrong_password": {
+    "user_name": "18931006600",
+    "password": "1234",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "030009",
+      "returnMsg": "您的账户名或登录密码不正确，您还能尝试登录"
+    }
+  },
+  "user_name_is_empty": {
+    "user_name": "",
+    "password": "1234abcd",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "081502",
+      "returnMsg": "请输入登录用户名称"
+    }
+  },
+  "password_is_empty": {
+    "user_name": "18931006600",
+    "password": "",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "081501",
+      "returnMsg": "请输入密码"
+    }
+  },
+  "user_name_psw_both_null": {
+    "user_name": "",
+    "password": "",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "081502",
+      "returnMsg": "请输入登录用户名称"
+    }
+  },
+  "account_revoked" : {
+    "user_name": "17050000028",
+    "password": "12qwaszx",
+    "is_successful": "false",
+    "assert_info": {
+      "returnCode": "030039",
+      "returnMsg": "该账号已撤销"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "pay_back": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "product_id": "05#A09201",
+    "pay_amount": "999",
+    "prod_type_scope_val": "'2#3'",
+    "trade_password": "142536",
+    "ecard_no":"",
+    "is_successful":"true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

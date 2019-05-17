@@ -1,0 +1,13 @@
+{
+  "one_part_redeem": {
+    "user_name": "17300001128",
+    "password": "12qwaszx",
+    "product_ids": "899#S20068",
+    "redeem_amts": "100",
+    "trade_password":"258036",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

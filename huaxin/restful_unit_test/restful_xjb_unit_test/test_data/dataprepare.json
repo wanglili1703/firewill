@@ -1,0 +1,15 @@
+{
+  "": {
+    "mobile": "13501000114",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "card_bin": "622202",
+    "recharge_amount": "200000",
+    "product_id": "H9#H90031",
+    "amt": "100000",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

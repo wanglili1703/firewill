@@ -1,0 +1,83 @@
+{
+  "normal_customer_service": {
+    "user_name": "15659271964",
+    "password": "12qwaszx",
+    "code": "NORMAL_CUSTOMER_SERVICE",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+    "newcomer_badge": {
+    "user_name": "15659271964",
+    "password": "12qwaszx",
+    "code": "NEWCOMER_BADGE",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+    "take_5_opportunities_per_day": {
+    "user_name": "15659271964",
+    "password": "12qwaszx",
+    "code": "TAKE_5_OPPORTUNITIES_PER_DAY",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+    "citic_joint_gold_card": {
+    "user_name": "15659271964",
+    "password": "12qwaszx",
+    "code": "CITIC_JOINT_GOLD_CARD",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+    "single_500_points_use_upper_limit": {
+    "user_name": "15659271964",
+    "password": "12qwaszx",
+    "code": "SINGLE_500_POINTS_USE_UPPER_LIMIT",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+    "coupon_88_giftpacks": {
+    "user_name": "15659271964",
+    "password": "12qwaszx",
+    "code": "COUPON_88_GIFTPACKS",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+    "points_50_giftpacks": {
+    "user_name": "15659271964",
+    "password": "12qwaszx",
+    "code": "POINTS_50_GIFTPACKS",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+    "member_exclusive_product_for_gold": {
+    "user_name": "15659271964",
+    "password": "12qwaszx",
+    "code": "MEMBER_EXCLUSIVE_PRODUCT_FOR_GOLD",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+     "brrow_privileg": {
+    "user_name": "15659271964",
+    "password": "12qwaszx",
+    "code": "BORROW_PRIVILEG",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "modify_success": {
+    "user_name": "17200000240",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "purchase_amt": "10.89",
+    "purchase_day": "M#5",
+    "comment": "工资理财修改",
+    "card_id": "0000000000102400",
+    "salary_fin_plan_id": "None",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "other's_bank_card": {
+    "user_name": "17200000240",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "purchase_amt": "10.89",
+    "purchase_day": "M#5",
+    "comment": "工资理财修改",
+    "card_id": "0000000000106504",
+    "salary_fin_plan_id": "None",
+    "assert_info": {
+      "returnCode": "011014",
+      "returnMsg": "银行卡非客户所有"
+    }
+  },
+  "3_decimals": {
+    "user_name": "17200000240",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "purchase_amt": "10.894",
+    "purchase_day": "M#5",
+    "comment": "工资理财修改",
+    "card_id": "0000000000106657",
+    "salary_fin_plan_id": "None",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "zero": {
+    "user_name": "17200000240",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "purchase_amt": "0",
+    "purchase_day": "M#5",
+    "comment": "工资理财修改",
+    "card_id": "0000000000106657",
+    "salary_fin_plan_id": "None",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "negative_amt": {
+    "user_name": "17200000240",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "purchase_amt": "-1.42",
+    "purchase_day": "M#5",
+    "comment": "工资理财修改",
+    "card_id": "0000000000106657",
+    "salary_fin_plan_id": "None",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "plan_id_not_exist": {
+    "user_name": "17200000240",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "purchase_amt": "1",
+    "purchase_day": "M#5",
+    "comment": "工资理财修改",
+    "card_id": "0000000000106657",
+    "salary_fin_plan_id": "23afdfdslfdkfdf_fds",
+    "assert_info": {
+      "returnCode": "019009",
+      "returnMsg": "理财计划不存在"
+    }
+  }
+}

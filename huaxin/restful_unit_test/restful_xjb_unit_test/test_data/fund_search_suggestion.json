@@ -1,0 +1,89 @@
+{
+ "fund_search_suggestion": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "type":"0",
+    "keyword":"050026",
+    "pageNo":"1",
+    "pageSize":"20",
+
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "find_search_suggestion": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "type":"1",
+    "keyword":"050021",
+    "pageNo":"3",
+    "pageSize":"20",
+
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "fund_combination_search": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "type":"3",
+    "keyword":"050021",
+    "pageNo":"1",
+    "pageSize":"20",
+
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "fund_compare_search": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "type":"2",
+    "keyword":"050021",
+    "pageNo":"1",
+    "pageSize":"20",
+
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "find_search_suggest": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "type":"1",
+    "keyword":"050026",
+    "pageNo":"5",
+    "pageSize":"20",
+
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+    "fund_search_suggestion_list": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "type":"1",
+    "keyword":"050021",
+    "pageNo":"5",
+    "pageSize":"20",
+
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+    "fund_search_suggestion_jack": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "type":"1",
+    "keyword":"050021",
+    "pageNo":"5",
+    "pageSize":"20",
+
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+    "fund_search_suggestion_kim": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "type":"1",
+    "keyword":"050026",
+    "pageNo":"5",
+    "pageSize":"20",
+
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  }
+}

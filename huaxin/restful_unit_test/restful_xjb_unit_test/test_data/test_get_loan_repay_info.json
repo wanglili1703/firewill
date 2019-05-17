@@ -1,0 +1,73 @@
+
+{
+  "get_loan_info": {
+    "user_name": "17200000194",
+    "password": "12qwaszx",
+    "my_loan_id": "012017091859BF5D6203971bF279",
+    "repay_capital_amt": "10.00",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "load_id_is_null": {
+    "user_name": "17200000194",
+    "password": "12qwaszx",
+    "my_loan_id": "",
+    "repay_capital_amt": "10",
+    "assert_info": {
+      "returnCode": "081578",
+      "returnMsg": "质押id为空"
+    }
+  },
+  "amt_is_null": {
+    "user_name": "17200000194",
+    "password": "12qwaszx",
+    "my_loan_id": "012017091859BF5D6203971bF279",
+    "repay_capital_amt": "",
+    "assert_info": {
+      "returnCode": "081582",
+      "returnMsg": "质押金额不合法"
+    }
+  },
+  "less_amt": {
+    "user_name": "17200000194",
+    "password": "12qwaszx",
+    "my_loan_id": "012017091859BF5D6203971bF279",
+    "repay_capital_amt": "0.005",
+    "assert_info": {
+      "returnCode": "081582",
+      "returnMsg": "质押金额不合法"
+    }
+  },
+  "amt_is_zero": {
+    "user_name": "17200000194",
+    "password": "12qwaszx",
+    "my_loan_id": "012017091859BF5D6203971bF279",
+    "repay_capital_amt": "0",
+    "assert_info": {
+      "returnCode": "081582",
+      "returnMsg": "质押金额不合法"
+    }
+  },
+  "amt_is_negivate": {
+    "user_name": "17200000194",
+    "password": "12qwaszx",
+    "my_loan_id": "012017091859BF5D6203971bF279",
+    "repay_capital_amt": "-20",
+    "assert_info": {
+      "returnCode": "081582",
+      "returnMsg": "质押金额不合法"
+    }
+  },
+  "loan_id_not_exist": {
+    "user_name": "17200000194",
+    "password": "12qwaszx",
+    "my_loan_id": "89",
+    "repay_capital_amt": "10",
+    "assert_info": {
+      "returnCode": "014101",
+      "returnMsg": "该笔随心借无待还款记录"
+    }
+  }
+}

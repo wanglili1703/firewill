@@ -1,0 +1,52 @@
+{
+  "match_with_certNo_employeeId": {
+    "user_name": "17200000300",
+    "password": "12qwaszx",
+    "cert_no": "621100197601237892",
+    "employee_id": "17",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "match_with_certNo": {
+    "user_name": "17200000300",
+    "password": "12qwaszx",
+    "cert_no": "621100197601237892",
+    "employee_id": "",
+    "assert_info": {
+      "returnCode": "080001",
+      "returnMsg": "服务异常"
+    }
+  },
+  "match_with_employeeId": {
+    "user_name": "17200000300",
+    "password": "12qwaszx",
+    "cert_no": "",
+    "employee_id": "17",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "paramter_is_null": {
+    "user_name": "17200000300",
+    "password": "12qwaszx",
+    "cert_no": "",
+    "employee_id": "",
+    "assert_info": {
+      "returnCode": "080001",
+      "returnMsg": "服务异常"
+    }
+  },
+  "employee_id_not_match": {
+    "user_name": "17200000300",
+    "password": "12qwaszx",
+    "cert_no": "621100197601237892",
+    "employee_id": "99",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

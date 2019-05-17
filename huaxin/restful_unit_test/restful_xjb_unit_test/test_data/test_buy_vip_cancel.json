@@ -1,0 +1,14 @@
+{
+  "cancel_buy_vip_using_several_coupons": {
+    "user_name": "13501000094",
+    "password": "12qwaszx",
+    "product_id": "H9#H90019",
+    "amt": "101",
+    "prod_type_scope_val": "'3#2'",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

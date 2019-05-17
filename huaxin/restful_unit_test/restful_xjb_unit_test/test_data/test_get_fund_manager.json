@@ -1,0 +1,47 @@
+{
+  "fund_manager_array01": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "fundId": "05#A09201",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_manager_array02": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "fundId": "05#A09201",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_manager_array03": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "fundId": "05#A09201",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_manager_array04": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "fundId": "05#A09201",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_manager_array05": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "fundId": "05#A09201",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

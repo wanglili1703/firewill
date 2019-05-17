@@ -1,0 +1,103 @@
+{
+  "regular_two_combination": {
+    "user_name": "17050000026",
+    "password": "12qwaszx",
+    "object_ids": "27#000214,27#000118,31#310368,31#310328",
+    "percents": "25,0,0,75",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "regular_three_combination": {
+    "user_name": "17050000026",
+    "password": "12qwaszx",
+    "object_ids": "27#000214,27#000118,31#310368,31#310328",
+    "percents": "25,40,0,35",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "regular_four_combination": {
+    "user_name": "17050000026",
+    "password": "12qwaszx",
+    "object_ids": "27#000214,27#000118,31#310368,31#310328",
+    "percents": "25,40,0,35",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "regular_one_combination": {
+    "user_name": "17050000026",
+    "password": "12qwaszx",
+    "object_ids": "27#000214,27#000118,31#310368,31#310328",
+    "percents": "100,0,0,0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "too_large_one_combination": {
+    "user_name": "17050000026",
+    "password": "12qwaszx",
+    "object_ids": "27#000214,27#000118,31#310368,31#310328",
+    "percents": "105,0,0,0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "too_large_two_combination": {
+    "user_name": "17050000026",
+    "password": "12qwaszx",
+    "object_ids": "27#000214,27#000118,31#310368,31#310328",
+    "percents": "70,40,0,0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "too_large_three_combination": {
+    "user_name": "17050000026",
+    "password": "12qwaszx",
+    "object_ids": "27#000214,27#000118,31#310368,31#310328",
+    "percents": "50,40,30,0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "too_large_four_combination": {
+    "user_name": "17050000026",
+    "password": "12qwaszx",
+    "object_ids": "27#000214,27#000118,31#310368,31#310328",
+    "percents": "20,40,30,25",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "percentage_is_negative": {
+    "user_name": "17050000026",
+    "password": "12qwaszx",
+    "object_ids": "27#000214,27#000118,31#310368,31#310328",
+    "percents": "-20,40,30,25",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "percentage_with_decimal": {
+    "user_name": "17050000026",
+    "password": "12qwaszx",
+    "object_ids": "27#000214,27#000118,31#310368,31#310328",
+    "percents": "0.8,40,30,25",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+
+}

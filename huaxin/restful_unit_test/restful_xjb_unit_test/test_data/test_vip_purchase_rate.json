@@ -1,0 +1,23 @@
+{
+  "vip_purchase_rate_product1": {
+    "user_name": "18931006600",
+    "login_password": "1234abcd",
+    "product_id": "H9#H98765",
+    "purchase_amt": "110000",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "vip_purchase_rate_product2": {
+    "user_name": "18931006601",
+    "login_password": "1234abcd",
+    "product_id": "H9#F90028",
+    "purchase_amt": "138000.09",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

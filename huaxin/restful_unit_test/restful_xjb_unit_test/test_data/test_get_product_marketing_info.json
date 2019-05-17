@@ -1,0 +1,18 @@
+{
+  "get_marketing_info": {
+    "user_name": "17200000349",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "no_login": {
+    "user_name": "",
+    "password": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

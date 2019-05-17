@@ -1,0 +1,92 @@
+{
+  "ceb_credit_card": {
+    "user_name": "17200000262",
+    "password": "12qwaszx",
+    "credit_card_no": "6259765086429006",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "spdb_credit_card": {
+    "user_name": "17200000294",
+    "password": "12qwaszx",
+    "credit_card_no": "6222287382049186",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "cib_credit_card": {
+    "user_name": "17200000273",
+    "password": "12qwaszx",
+    "credit_card_no": "6259611058791239",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "ccb_credit_card": {
+    "user_name": "17200000284",
+    "password": "12qwaszx",
+    "credit_card_no": "6259652505942441",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "icbc_credit_card": {
+    "user_name": "17200000337",
+    "password": "12qwaszx",
+    "credit_card_no": "5309891632843941",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "abc_credit_card": {
+    "user_name": "17200000297",
+    "password": "12qwaszx",
+    "credit_card_no": "4041172017740273",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "ecitic_credit_card": {
+    "user_name": "17200000297",
+    "password": "12qwaszx",
+    "credit_card_no": "4033916380219960",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "boc_credit_card": {
+    "user_name": "17200000267",
+    "password": "12qwaszx",
+    "credit_card_no": "6227613637206102",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "cmbc_credit_card": {
+    "user_name": "17200000286",
+    "password": "12qwaszx",
+    "credit_card_no": "4392259444264430",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "bankofshanghai_credit_card": {
+    "user_name": "17200000324",
+    "password": "12qwaszx",
+    "credit_card_no": "3568297663300096",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "sms_use_mobile_login": {
+    "user_name": "17200000199",
+    "password": "123456",
+    "type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "sms_use_cert_login": {
+    "user_name": "511502195408187264",
+    "password": "",
+    "type": "1",
+    "assert_info": {
+      "returnCode": "030001",
+      "returnMsg": "请输入正确的手机号码"
+    }
+  },
+  "sms_password_is_empty": {
+    "user_name": "17200000175",
+    "password": "",
+    "type": "1",
+    "assert_info": {
+      "returnCode": "030139",
+      "returnMsg": "该账户不支持短信验证码登录,请通过账号密码登录"
+    }
+  },
+  "sms_password_wrong": {
+    "user_name": "17200000199",
+    "password": "000000",
+    "type": "1",
+    "assert_info": {
+      "returnCode": "090300",
+      "returnMsg": "您的账户名或短信验证码不正确"
+    }
+  },
+  "sms_username_wrong": {
+    "user_name": "172000000175",
+    "password": "123456",
+    "type": "1",
+    "assert_info": {
+      "returnCode": "030001",
+      "returnMsg": "请输入正确的手机号码"
+    }
+  },
+  "sms_username_is_empty": {
+    "user_name": "",
+    "password": "123456",
+    "type": "1",
+    "assert_info": {
+      "returnCode": "030018",
+      "returnMsg": "参数非法"
+    }
+  }
+}

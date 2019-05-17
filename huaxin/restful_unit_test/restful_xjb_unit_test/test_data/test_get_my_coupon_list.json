@@ -1,0 +1,145 @@
+{
+  "nohistory_invalid_page_no1": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "is_history": "0",
+    "page_no": "-1",
+    "page_size": "3",
+    "status": "ISSUE",
+    "assert_info": {
+      "returnCode": "080001",
+      "returnMsg": "服务异常"
+    }
+  },
+
+  "nohistory_invalid_page_no2": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "is_history": "0",
+    "page_no": "0",
+    "page_size": "3",
+    "status": "ISSUE",
+    "assert_info": {
+      "returnCode": "080001",
+      "returnMsg": "服务异常"
+    }
+  },
+
+  "nohistory_valid_page_size0": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "is_history": "0",
+    "page_no": "1",
+    "page_size": "0",
+    "status": "ISSUE",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "nohistory_invalid_page_size1": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "is_history": "0",
+    "page_no": "1",
+    "page_size": "-1",
+    "status": "ISSUE",
+    "assert_info": {
+      "returnCode": "080001",
+      "returnMsg": "服务异常"
+    }
+  },
+
+
+  "nohistory_size_less_10_no_2": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "is_history": "0",
+    "page_no": "1",
+    "page_size": "3",
+    "status": "ISSUE",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "nohistory_size_less_10_no_4": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "is_history": "0",
+    "page_no": "4",
+    "page_size": "3",
+    "status": "ISSUE",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "nohistory_size_less_10_no_5": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "is_history": "0",
+    "page_no": "5",
+    "page_size": "3",
+    "status": "ISSUE",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "nohistory_size_equal_10_no_1": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "is_history": "0",
+    "page_no": "1",
+    "page_size": "10",
+    "status": "ISSUE",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "nohistory_size_equal_10_no_2": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "is_history": "0",
+    "page_no": "2",
+    "page_size": "10",
+    "status": "ISSUE",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "nohistory_size_more_10_no_1": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "is_history": "0",
+    "page_no": "1",
+    "page_size": "20",
+    "status": "ISSUE",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "nohistory_size_more_10_no_2": {
+    "user_name": "15615089675",
+    "password": "12qwaszx",
+    "is_history": "0",
+    "page_no": "2",
+    "page_size": "20",
+    "status": "ISSUE",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

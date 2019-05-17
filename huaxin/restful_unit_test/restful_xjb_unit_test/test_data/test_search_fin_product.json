@@ -1,0 +1,24 @@
+
+{
+  "dqb_product": {
+    "user_name": "17200000338",
+    "password": "12qwaszx",
+    "keyword": "定期宝",
+    "product_type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "high_product": {
+    "user_name": "17200000338",
+    "password": "12qwaszx",
+    "keyword": "高端",
+    "product_type": "3",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

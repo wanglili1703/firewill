@@ -1,0 +1,42 @@
+{
+  "invalid_cert_type": {
+    "user_name": "13501000077",
+    "password": "12qwaszx",
+    "cert_type": "1",
+    "mobile_code": "123456",
+    "assert_info": {
+      "returnCode": "030091",
+      "returnMsg": "用户信息不匹配"
+    }
+  },
+  "blank_mobile_code": {
+    "user_name": "13501000080",
+    "password": "12qwaszx",
+    "cert_type": "0",
+    "mobile_code": "",
+    "assert_info": {
+      "returnCode": "081511",
+      "returnMsg": "请输入手机验证码"
+    }
+  },
+  "not_nanyue_bank_card": {
+    "user_name": "13501000078",
+    "password": "12qwaszx",
+    "cert_type": "0",
+    "mobile_code": "434545",
+    "assert_info": {
+      "returnCode": "081565",
+      "returnMsg": "无此卡信息"
+    }
+  },
+  "invalid_mobile_code": {
+    "user_name": "13501000077",
+    "password": "12qwaszx",
+    "cert_type": "0",
+    "mobile_code": "434545",
+    "assert_info": {
+      "returnCode": "030071",
+      "returnMsg": "验证码错误"
+    }
+  }
+}

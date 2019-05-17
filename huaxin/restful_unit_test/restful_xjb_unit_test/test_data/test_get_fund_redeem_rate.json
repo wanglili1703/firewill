@@ -1,0 +1,11 @@
+{
+  "get_fund_redeem_rate1": {
+    "user_name": "15646989464",
+    "password": "12qwaszx",
+    "fund_id": "05#000803",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

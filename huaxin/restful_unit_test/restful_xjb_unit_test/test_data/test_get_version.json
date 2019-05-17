@@ -1,0 +1,31 @@
+{
+  "null_version": {
+    "user_name": "18831881115",
+    "password": "12qwaszx",
+    "type": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "province_version": {
+    "user_name": "18831881115",
+    "password": "12qwaszx",
+    "type": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "other_version": {
+    "user_name": "18831881115",
+    "password": "12qwaszx",
+    "type": "abs",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

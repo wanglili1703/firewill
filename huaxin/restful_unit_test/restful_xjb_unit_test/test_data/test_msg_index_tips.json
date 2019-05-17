@@ -1,0 +1,38 @@
+{
+  "msg_page": {
+    "user_name": "17200000227",
+    "password": "12qwaszx",
+    "position": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "msg_mine": {
+    "user_name": "17200000227",
+    "password": "12qwaszx",
+    "position": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "msg_holding": {
+    "user_name": "17200000227",
+    "password": "12qwaszx",
+    "position": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "msg_setting": {
+    "user_name": "17200000227",
+    "password": "12qwaszx",
+    "position": "3",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

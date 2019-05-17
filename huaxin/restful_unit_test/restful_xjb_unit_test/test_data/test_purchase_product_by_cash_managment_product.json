@@ -1,0 +1,42 @@
+{
+  "subscribe_vip_prod": {
+    "user_name": "13501000114",
+    "password": "12qwaszx",
+    "product_id": "H9#H90017",
+    "pay_type": "7",
+    "amt": "2",
+    "pay_product_id": "H9#H90031",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "subscribe_fund": {
+    "user_name": "13501000114",
+    "password": "12qwaszx",
+    "product_id": "05#001099",
+    "pay_type": "7",
+    "amt": "3",
+    "pay_product_id": "H9#H90031",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "subscribe_dhb": {
+    "user_name": "13501000114",
+    "password": "12qwaszx",
+    "product_id": "899#SG5004",
+    "pay_type": "7",
+    "amt": "3",
+    "pay_product_id": "H9#H90031",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

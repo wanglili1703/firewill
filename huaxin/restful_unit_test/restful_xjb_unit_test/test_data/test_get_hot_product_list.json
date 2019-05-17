@@ -1,0 +1,18 @@
+{
+  "hot_product_list_wo_user": {
+    "user_name": "",
+    "password": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "hot_product_list_w_user": {
+    "user_name": "13501000095",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

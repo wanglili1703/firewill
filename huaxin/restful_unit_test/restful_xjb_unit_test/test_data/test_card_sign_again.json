@@ -1,0 +1,29 @@
+{
+  "sign_again": {
+    "mobile": "17200000178",
+    "password": "12qwaszx",
+    "bank_card_id": "0000000000102264",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "serial_id_null": {
+    "mobile": "17200000178",
+    "password": "12qwaszx",
+    "bank_card_id": "",
+    "assert_info": {
+      "returnCode": "030018",
+      "returnMsg": "参数非法"
+    }
+  },
+  "serial_id_not_exists": {
+    "mobile": "17200000178",
+    "password": "12qwaszx",
+    "bank_card_id": "000000000000000",
+    "assert_info": {
+      "returnCode": "030037",
+      "returnMsg": "银行流水号不存在"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "1_normal_user": {
+    "user_name": "15649774333",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "2_normal_user": {
+    "user_name": "17300001186",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "3_normal_user": {
+    "user_name": "17300001185",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

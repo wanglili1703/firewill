@@ -1,0 +1,51 @@
+{
+  "my_fund_history_detail_0": {
+    "user_name": "15958335480",
+    "password": "12qwaszx",
+    "batch_no" : "34963",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "my_fund_history_detail_1": {
+    "user_name": "17300001186",
+    "password": "12qwaszx",
+    "batch_no" : "35012",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "my_fund_history_detail_2": {
+    "user_name": "15958335480",
+    "password": "12qwaszx",
+    "batch_no" : "34960",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "my_fund_history_detail_3": {
+    "user_name": "15958335480",
+    "password": "12qwaszx",
+    "batch_no" : "34964",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "my_fund_history_detail_8": {
+    "user_name": "17300001186",
+    "password": "12qwaszx",
+    "batch_no" : "35013",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

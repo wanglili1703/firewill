@@ -1,0 +1,14 @@
+{
+  "test_modify_expire_dispose_type": {
+    "user_name": "17200000317",
+    "password": "12qwaszx",
+    "expire_dispose_type": "1",
+    "product_id": "H9#H99998",
+    "value_date": "20170811",
+    "expire_date": "20191231",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

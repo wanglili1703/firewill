@@ -1,0 +1,46 @@
+{
+  "terminate": {
+    "user_name": "13501000109",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "status": "0",
+    "salary_fin_plan_id": "None",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "postpone": {
+    "user_name": "13501000109",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "status": "1",
+    "salary_fin_plan_id": "None",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "start": {
+    "user_name": "13501000109",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "status": "2",
+    "salary_fin_plan_id": "None",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "invalid_plan_id": {
+    "user_name": "13501000109",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "status": "0",
+    "salary_fin_plan_id": "0909088",
+    "assert_info": {
+      "returnCode": "019009",
+      "returnMsg": "理财计划不存在"
+    }
+  }
+}

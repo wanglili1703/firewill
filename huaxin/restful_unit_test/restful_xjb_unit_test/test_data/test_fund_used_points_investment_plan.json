@@ -1,0 +1,56 @@
+{
+  "used_points_investment_plan_array01": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "fund_id": "05#A09201",
+    "purchase_amt": "300",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "used_points_investment_plan_array02": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "fund_id": "05#A09201",
+    "purchase_amt": "100.50",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "used_points_investment_plan_array03": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "fund_id": "05#A09201",
+    "purchase_amt": "1000.60",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "used_points_investment_plan_array04": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "fund_id": "05#A09201",
+    "purchase_amt": "2300",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "used_points_investment_plan_array05": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "fund_id": "05#A09201",
+    "purchase_amt": "10",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

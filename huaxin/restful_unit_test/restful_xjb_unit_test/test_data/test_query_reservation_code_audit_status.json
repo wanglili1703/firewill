@@ -1,0 +1,21 @@
+{
+  "apply_audit_status": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "product_id": "H9#H90088",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "no_apply_audit_status": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "product_id": "899#SP13147",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

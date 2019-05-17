@@ -1,0 +1,46 @@
+{
+  "fund": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "product_id": "05#A09201",
+    "prod_type_scope_val": "'2#3'",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "vip": {
+    "user_name": "13501000089",
+    "password": "12qwaszx",
+    "product_id": "H9#H90019",
+    "prod_type_scope_val": "'3#2'",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "dqb": {
+    "user_name": "13501000089",
+    "password": "12qwaszx",
+    "product_id": "899#SG5001",
+    "prod_type_scope_val": "'1#1'",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "no_coupon_available": {
+    "user_name": "13501000095",
+    "password": "12qwaszx",
+    "product_id": "899#SG5001",
+    "prod_type_scope_val": "'1#1'",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

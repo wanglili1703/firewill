@@ -1,0 +1,40 @@
+{
+  "invalid_mobile_code": {
+    "user_name": "13501000061",
+    "password": "12qwaszx",
+    "card_no": "9558553388558885",
+    "assert_info": {
+      "returnCode": "109999",
+      "returnMsg": "该卡非信用卡"
+    }
+  },
+   "binded_credit_card": {
+    "user_name": "13501000061",
+    "password": "12qwaszx",
+    "card_no": "6259760404067612",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+    "binded_credit_kim": {
+    "user_name": "13501000061",
+    "password": "12qwaszx",
+    "card_no": "6259760404067612",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+    "binded_credit_card_like": {
+    "user_name": "13501000061",
+    "password": "12qwaszx",
+    "card_no": "6259760404067612",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "star_level_all_page1": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "10668",
+    "page_no": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "star_level_all_page3": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "41644",
+    "page_no": "3",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "zhaoshang": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "2921",
+    "page_no": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "haitong": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "1770",
+    "page_no": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "jian": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "18968",
+    "page_no": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "tianxiang": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "2433",
+    "page_no": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "shanghai": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "41644",
+    "page_no": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

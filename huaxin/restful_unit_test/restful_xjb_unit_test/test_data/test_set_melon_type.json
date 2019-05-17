@@ -1,0 +1,24 @@
+{
+  "trade_total_asset1": {
+    "user_name": "17060001186",
+    "password": "12qwaszx",
+    "fund_id": "05#000803",
+    "share_type": "0",
+    "cust_no": "0000092485",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "trade_total_asset2": {
+    "user_name": "17060001186",
+    "password": "12qwaszx",
+    "fund_id": "05#000803",
+    "share_type": "1",
+    "cust_no": "0000092485",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

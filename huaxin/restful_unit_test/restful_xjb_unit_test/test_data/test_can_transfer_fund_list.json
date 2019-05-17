@@ -1,0 +1,22 @@
+{
+  "can_transfer_fund_list_normal": {
+    "user_name": "17200000285",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000811",
+    "type": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "can_transfer_fund_list_fast": {
+    "user_name": "17200000285",
+    "password": "12qwaszx",
+    "from_fund_id": "05#000810",
+    "type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

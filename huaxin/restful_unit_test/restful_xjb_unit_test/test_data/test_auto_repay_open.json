@@ -1,0 +1,11 @@
+{
+  "auto_repay_open": {
+    "user_name": "17200000245",
+    "password": "12qwaszx",
+    "card_serial_no": "6229180024000113",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

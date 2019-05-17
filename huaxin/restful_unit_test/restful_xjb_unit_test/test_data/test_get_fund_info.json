@@ -1,0 +1,38 @@
+{
+  "11010_shengou_fund_type_1": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "fund_id": "05#000802",
+    "fund_type": "1",
+    "charge_rate_type": "11010",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "12000_shengou_fund_type_1": {
+    "user_name": "15000203052",
+    "password": "12qwaszx",
+    "fund_id": "05#000802",
+    "fund_type": "1",
+    "charge_rate_type": "11010",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "11010_shengou_fund_type_2": {
+    "user_name": "13501000114",
+    "password": "12qwaszx",
+    "fund_id": "05#001099",
+    "fund_type": "2",
+    "charge_rate_type": "11010",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}
+

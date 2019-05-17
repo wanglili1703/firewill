@@ -1,0 +1,169 @@
+{
+  "5_risk_level_purchase_fund_5": {
+    "user_name": "17300001144",
+    "password": "12qwaszx",
+    "product_id": "17#000960",
+    "pay_type": "0",
+    "amt": "100",
+    "is_confirm_beyond_risk": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "081610",
+      "returnMsg": "hxxjb://alert?title=风险匹配并且产品为高风险"
+    }
+  },
+
+  "4_risk_level_purchase_fund_5": {
+    "user_name": "17300001145",
+    "password": "12qwaszx",
+    "product_id": "17#000960",
+    "pay_type": "0",
+    "amt": "100",
+    "is_confirm_beyond_risk": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "081602",
+      "returnMsg": "hxxjb://alert?title"
+    }
+  },
+
+  "3_risk_level_purchase_fund_5": {
+    "user_name": "17300001143",
+    "password": "12qwaszx",
+    "product_id": "17#000960",
+    "pay_type": "0",
+    "amt": "100",
+    "is_confirm_beyond_risk": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "081602",
+      "returnMsg": "hxxjb://alert?"
+    }
+  },
+
+  "2_risk_level_purchase_fund_5": {
+    "user_name": "17300000943",
+    "password": "12qwaszx",
+    "product_id": "17#000960",
+    "pay_type": "0",
+    "amt": "100",
+    "is_confirm_beyond_risk": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "081602",
+      "returnMsg": "hxxjb://alert?"
+    }
+  },
+
+  "1_risk_level_purchase_fund_5": {
+    "user_name": "17300000942",
+    "password": "12qwaszx",
+    "product_id": "17#000960",
+    "pay_type": "0",
+    "amt": "100",
+    "is_confirm_beyond_risk": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "081600",
+      "returnMsg": "hxxjb://commonh5?url=http://10.199.111.2/V1/pages/account/risk_review.html"
+    }
+  },
+
+  "1_risk_level_purchase_fund_4": {
+    "user_name": "17300000942",
+    "password": "12qwaszx",
+    "product_id": "05#001099",
+    "pay_type": "0",
+    "amt": "100",
+    "is_confirm_beyond_risk": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "081600",
+      "returnMsg": "hxxjb://commonh5?url=http://10.199.111.2/V1/pages/account/risk_review.html"
+    }
+  },
+
+  "5_risk_level_purchase_vip_prod_5": {
+    "user_name": "17300001144",
+    "password": "12qwaszx",
+    "product_id": "H9#H90639",
+    "pay_type": "0",
+    "amt": "100",
+    "is_confirm_beyond_risk": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "081610",
+      "returnMsg": "hxxjb://alert?title=风险匹配并且产品为高风险"
+    }
+  },
+
+  "4_risk_level_purchase_vip_prod_5": {
+    "user_name": "17300001145",
+    "password": "12qwaszx",
+    "product_id": "H9#H90639",
+    "pay_type": "0",
+    "amt": "100",
+    "is_confirm_beyond_risk": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "081602",
+      "returnMsg": "hxxjb://alert?title"
+    }
+  },
+
+  "3_risk_level_purchase_vip_prod_5": {
+    "user_name": "17300001143",
+    "password": "12qwaszx",
+    "product_id": "H9#H90639",
+    "pay_type": "0",
+    "amt": "100",
+    "is_confirm_beyond_risk": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "081602",
+      "returnMsg": "hxxjb://alert?"
+    }
+  },
+
+  "2_risk_level_purchase_vip_prod_5": {
+    "user_name": "17300000943",
+    "password": "12qwaszx",
+    "product_id": "H9#H90639",
+    "pay_type": "0",
+    "amt": "100",
+    "is_confirm_beyond_risk": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "081602",
+      "returnMsg": "hxxjb://alert?"
+    }
+  },
+
+  "1_risk_level_purchase_vip_prod_5": {
+    "user_name": "17300000942",
+    "password": "12qwaszx",
+    "product_id": "H9#H90639",
+    "pay_type": "0",
+    "amt": "100",
+    "is_confirm_beyond_risk": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "081600",
+      "returnMsg": "hxxjb://commonh5?url=http://10.199.111.2/V1/pages/account/risk_review.html"
+    }
+  },
+
+  "1_risk_level_purchase_vip_prod_4": {
+    "user_name": "17300000942",
+    "password": "12qwaszx",
+    "product_id": "H9#H92360",
+    "pay_type": "0",
+    "amt": "100",
+    "is_confirm_beyond_risk": "0",
+    "trade_password": "258036",
+    "assert_info": {
+      "returnCode": "081600",
+      "returnMsg": "hxxjb://commonh5?url=http://10.199.111.2/V1/pages/account/risk_review.html"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "0_personal_setting": {
+    "user_name": "17200000317",
+    "password": "12qwaszx",
+    "sub_type":"0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "1_personal_setting": {
+    "user_name": "17200000317",
+    "password": "12qwaszx",
+    "sub_type":"1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "null_personal_setting": {
+    "user_name": "17200000317",
+    "password": "12qwaszx",
+    "sub_type":"",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

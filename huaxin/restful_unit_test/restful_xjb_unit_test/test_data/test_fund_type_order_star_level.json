@@ -1,0 +1,88 @@
+{
+  "star_level_fund_type_descending": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "1770",
+    "order_type": "1",
+    "fund_type": "3",
+    "page_no": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "star_level_fund_type_ascending": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "2433",
+    "order_type": "0",
+    "fund_type": "2",
+    "page_no": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "star_level_fund_type_default": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "18968",
+    "order_type": "0",
+    "fund_type": "1",
+    "page_no": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "share": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "18968",
+    "order_type": "0",
+    "fund_type": "0",
+    "page_no": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "financial_manage": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "18968",
+    "order_type": "0",
+    "fund_type": "8",
+    "page_no": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "other": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "18968",
+    "order_type": "0",
+    "fund_type": "8",
+    "page_no": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+ "QDII": {
+    "user_name": "13501000051",
+    "login_password": "12qwaszx",
+    "grade_org_id": "18968",
+    "order_type": "0",
+    "fund_type": "11",
+    "page_no": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+
+}

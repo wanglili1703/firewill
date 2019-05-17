@@ -1,0 +1,56 @@
+{
+  "dhb_product": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "product_id": "899#SG5005",
+    "purchase_amt": "100",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "2_high_product": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "product_id": "H9#H90007",
+    "purchase_amt": "100",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "1_high_product": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "product_id": "H9#H90022",
+    "purchase_amt": "10",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "0_amt__high_product": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "product_id": "H9#H90022",
+    "purchase_amt": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "null_amt__high_product": {
+    "user_name": "15000203051",
+    "password": "12qwaszx",
+    "product_id": "H9#H90022",
+    "purchase_amt": "",
+    "assert_info": {
+      "returnCode": "080001",
+      "returnMsg": "服务异常"
+    }
+  }
+}

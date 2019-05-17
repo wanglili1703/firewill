@@ -1,0 +1,10 @@
+{
+  "get_stock_asset_info": {
+    "user_name": "15021235102",
+    "password": "qq789123",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

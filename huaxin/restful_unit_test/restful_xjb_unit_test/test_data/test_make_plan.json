@@ -1,0 +1,227 @@
+{
+  "add_plan": {
+    "user_name": "17200000311",
+    "password": "12qwaszx",
+    "repay_plan_id": "",
+    "repay_type": "H",
+    "card_id": "0000000000102604",
+    "repay_amt": "20.00",
+    "repay_date": "15",
+    "repay_count": "12",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "repay_amt_is_null": {
+    "user_name": "17200000311",
+    "password": "12qwaszx",
+    "repay_plan_id": "135790",
+    "repay_type": "H",
+    "card_id": "0000000000102604",
+    "repay_amt": "",
+    "repay_date": "15",
+    "repay_count": "12",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081520",
+      "returnMsg": "请输入交易金额"
+    }
+  },
+  "repay_date_is_null": {
+    "user_name": "17200000311",
+    "password": "12qwaszx",
+    "repay_plan_id": "135790",
+    "repay_type": "H",
+    "card_id": "0000000000102604",
+    "repay_amt": "20",
+    "repay_date": "",
+    "repay_count": "12",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081618",
+      "returnMsg": "还贷日期非法"
+    }
+  },
+  "repay_count_is_null": {
+    "user_name": "17200000311",
+    "password": "12qwaszx",
+    "repay_plan_id": "135790",
+    "repay_type": "H",
+    "card_id": "0000000000102604",
+    "repay_amt": "20",
+    "repay_date": "15",
+    "repay_count": "",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081619",
+      "returnMsg": "还贷期数非法"
+    }
+  },
+  "repay_plan_id_not_exists": {
+    "user_name": "17200000311",
+    "password": "12qwaszx",
+    "repay_plan_id": "000",
+    "repay_type": "H",
+    "card_id": "0000000000102604",
+    "repay_amt": "20",
+    "repay_date": "15",
+    "repay_count": "12",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "109999",
+      "returnMsg": "还款计划不存在"
+    }
+  },
+  "repay_plan_id_invalid": {
+    "user_name": "17200000311",
+    "password": "12qwaszx",
+    "repay_plan_id": "yuyu",
+    "repay_type": "H",
+    "card_id": "0000000000102604",
+    "repay_amt": "20",
+    "repay_date": "15",
+    "repay_count": "12",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "080001",
+      "returnMsg": "服务异常"
+    }
+  },
+  "modify_plan": {
+    "user_name": "17200000311",
+    "password": "12qwaszx",
+    "repay_plan_id": "13",
+    "repay_type": "H",
+    "card_id": "0000000000102604",
+    "repay_amt": "100.50",
+    "repay_date": "12",
+    "repay_count": "20",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "modify_plan_amt_is_null": {
+    "user_name": "17200000311",
+    "password": "12qwaszx",
+    "repay_plan_id": "13",
+    "repay_type": "H",
+    "card_id": "0000000000102604",
+    "repay_amt": "",
+    "repay_date": "12",
+    "repay_count": "20",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081520",
+      "returnMsg": "请输入交易金额"
+    }
+  },
+  "modify_plan_repay_date_is_null": {
+    "user_name": "17200000311",
+    "password": "12qwaszx",
+    "repay_plan_id": "13",
+    "repay_type": "H",
+    "card_id": "0000000000102604",
+    "repay_amt": "100.50",
+    "repay_date": "",
+    "repay_count": "20",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081618",
+      "returnMsg": "还贷日期非法"
+    }
+  },
+  "modify_plan_repay_count_is_null": {
+    "user_name": "17200000311",
+    "password": "12qwaszx",
+    "repay_plan_id": "13",
+    "repay_type": "H",
+    "card_id": "0000000000102604",
+    "repay_amt": "100.50",
+    "repay_date": "12",
+    "repay_count": "",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081619",
+      "returnMsg": "还贷期数非法"
+    }
+  },
+  "trade_password_is_null": {
+    "user_name": "17200000311",
+    "password": "12qwaszx",
+    "repay_plan_id": "13",
+    "repay_type": "H",
+    "card_id": "0000000000102604",
+    "repay_amt": "100.50",
+    "repay_date": "12",
+    "repay_count": "20",
+    "trade_password": "",
+    "assert_info": {
+      "returnCode": "081504",
+      "returnMsg": "请输入交易密码"
+    }
+  },
+  "trade_password_error": {
+    "user_name": "17200000311",
+    "password": "12qwaszx",
+    "repay_plan_id": "13",
+    "repay_type": "H",
+    "card_id": "0000000000102604",
+    "repay_amt": "100.50",
+    "repay_date": "12",
+    "repay_count": "20",
+    "trade_password": "123456",
+    "assert_info": {
+      "returnCode": "030067",
+      "returnMsg": "密码错误次数已达"
+    }
+  },
+  "repay_plan_id_not_match": {
+    "user_name": "17200000311",
+    "password": "12qwaszx",
+    "repay_plan_id": "3",
+    "repay_type": "H",
+    "card_id": "0000000000102604",
+    "repay_amt": "100.50",
+    "repay_date": "12",
+    "repay_count": "20",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "109999",
+      "returnMsg": "客户号不匹配"
+    }
+  },
+  "add_plan_amt_error": {
+    "user_name": "17200000311",
+    "password": "12qwaszx",
+    "repay_plan_id": "",
+    "repay_type": "H",
+    "card_id": "0000000000102604",
+    "repay_amt": "9999.888",
+    "repay_date": "15",
+    "repay_count": "12",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "081549",
+      "returnMsg": "交易金额不合法"
+    }
+  },
+  "add_plan_card_not_match": {
+    "user_name": "17200000324",
+    "password": "12qwaszx",
+    "repay_plan_id": "",
+    "repay_type": "H",
+    "card_id": "0000000000102604",
+    "repay_amt": "50.88",
+    "repay_date": "15",
+    "repay_count": "12",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "109999",
+      "returnMsg": "该卡不存在"
+    }
+  }
+}

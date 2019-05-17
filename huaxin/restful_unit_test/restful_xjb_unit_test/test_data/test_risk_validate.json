@@ -1,0 +1,47 @@
+{
+  "user_risk_2_high": {
+    "user_name": "13834281005",
+    "password": "12qwaszx",
+    "product_id": "05#001429",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "user_risk_2_phigh": {
+    "user_name": "13834281005",
+    "password": "12qwaszx",
+    "product_id": "77#001179",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "user_risk_1_high": {
+    "user_name": "15659271964",
+    "password": "12qwaszx",
+    "product_id": "05#001429",
+    "assert_info": {
+      "returnCode": "081600",
+      "returnMsg": ""
+    }
+  },
+  "user_risk_1_phigh": {
+    "user_name": "15659271964",
+    "password": "12qwaszx",
+    "product_id": "77#001179",
+    "assert_info": {
+      "returnCode": "081600",
+      "returnMsg": ""
+    }
+  },
+  "user_risk_1_mid": {
+    "user_name": "15659271964",
+    "password": "12qwaszx",
+    "product_id": "05#001661",
+    "assert_info": {
+      "returnCode": "081600",
+      "returnMsg": ""
+    }
+  }
+}

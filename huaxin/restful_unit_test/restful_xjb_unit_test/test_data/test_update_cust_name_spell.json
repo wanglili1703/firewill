@@ -1,0 +1,41 @@
+{
+  "user_for_change_pinyin": {
+    "user_name": "13989633107",
+    "password": "12qwaszx",
+    "name_spell": "Shanghai",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "user_for_change_chinese": {
+    "user_name": "13989633107",
+    "password": "12qwaszx",
+    "name_spell": "华信证券",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "user_for_change_sign": {
+    "user_name": "13989633107",
+    "password": "12qwaszx",
+    "name_spell": ",./",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "user_for_change_null": {
+    "user_name": "13989633107",
+    "password": "12qwaszx",
+    "name_spell": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

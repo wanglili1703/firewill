@@ -1,0 +1,41 @@
+{
+  "year_finance_fund_auto_pur_tip": {
+    "user_name": "17200000240",
+    "password": "12qwaszx",
+    "fund_id": "53#530030",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "month_finance_fund_auto_pur_tip": {
+    "user_name": "17300001194",
+    "password": "12qwaszx",
+    "fund_id": "53#530031",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "week_finance_fund_auto_pur_tip": {
+    "user_name": "17300001195",
+    "password": "12qwaszx",
+    "fund_id": "53#530032",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "day_finance_fund_auto_pur_tip": {
+    "user_name": "17300001193",
+    "password": "12qwaszx",
+    "fund_id": "53#530033",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

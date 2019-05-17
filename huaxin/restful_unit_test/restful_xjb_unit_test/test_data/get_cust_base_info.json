@@ -1,0 +1,10 @@
+{
+  "get_cust_base_info": {
+    "user_name": "17200000290",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

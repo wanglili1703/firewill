@@ -1,0 +1,62 @@
+{
+  "all_index_page": {
+    "user_name": "17200000270",
+    "password": "12qwaszx",
+    "doc_type": "",
+    "position": "0",
+    "page_no": "1",
+    "page_size": "20",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "all_information": {
+    "user_name": "17200000270",
+    "password": "12qwaszx",
+    "doc_type": "",
+    "position": "1",
+    "page_no": "1",
+    "page_size": "20",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "research_report": {
+    "user_name": "17200000270",
+    "password": "12qwaszx",
+    "doc_type": "1",
+    "position": "1",
+    "page_no": "1",
+    "page_size": "20",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "all_institutional_perspective": {
+    "user_name": "17200000270",
+    "password": "12qwaszx",
+    "doc_type": "2",
+    "position": "1",
+    "page_no": "1",
+    "page_size": "20",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "all_famous_group": {
+    "user_name": "17200000270",
+    "password": "12qwaszx",
+    "doc_type": "3",
+    "position": "1",
+    "page_no": "1",
+    "page_size": "20",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

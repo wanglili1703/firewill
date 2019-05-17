@@ -1,0 +1,136 @@
+{
+  "vip_prod_int_amt_success_fast": {
+    "user_name": "13501000114",
+    "password": "12qwaszx",
+    "product_id": "H9#H90017",
+    "product_type": "3",
+    "sold_share": "1",
+    "sold_type": "1",
+    "trade_password": "135790",
+    "is_success": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "vip_prod_float_amt_success_fast": {
+    "user_name": "13501000114",
+    "password": "12qwaszx",
+    "product_id": "H9#H90017",
+    "product_type": "3",
+    "sold_share": "1.5",
+    "sold_type": "1",
+    "trade_password": "135790",
+    "is_success": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "vip_prod_int_amt_success": {
+    "user_name": "13501000114",
+    "password": "12qwaszx",
+    "product_id": "H9#H90017",
+    "product_type": "3",
+    "sold_share": "1",
+    "sold_type": "0",
+    "trade_password": "135790",
+    "is_success": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "vip_prod_float_amt_success": {
+    "user_name": "13501000114",
+    "password": "12qwaszx",
+    "product_id": "H9#H90017",
+    "product_type": "3",
+    "sold_share": "1.5",
+    "sold_type": "0",
+    "trade_password": "135790",
+    "is_success": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "fund_normal_int_success_fast": {
+    "user_name": "13501000114",
+    "password": "12qwaszx",
+    "product_id": "05#001099",
+    "product_type": "2",
+    "sold_share": "1",
+    "sold_type": "1",
+    "trade_password": "135790",
+    "is_success": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "fund_normal_float_success_fast": {
+    "user_name": "13501000114",
+    "password": "12qwaszx",
+    "product_id": "05#001099",
+    "product_type": "2",
+    "sold_share": "1.5",
+    "sold_type": "1",
+    "trade_password": "135790",
+    "is_success": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "fund_normal_int_success": {
+    "user_name": "13501000114",
+    "password": "12qwaszx",
+    "product_id": "05#001099",
+    "product_type": "2",
+    "sold_share": "1",
+    "sold_type": "0",
+    "trade_password": "135790",
+    "is_success": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "fund_normal_float_success": {
+    "user_name": "13501000114",
+    "password": "12qwaszx",
+    "product_id": "05#001099",
+    "product_type": "2",
+    "sold_share": "1.5",
+    "sold_type": "0",
+    "trade_password": "135790",
+    "is_success": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "dhb_normal_int_success": {
+    "user_name": "13501000114",
+    "password": "12qwaszx",
+    "product_id": "899#S88005",
+    "product_type": "1",
+    "sold_share": "1",
+    "sold_type": "",
+    "trade_password": "135790",
+    "is_success": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "no_match_level": {
+    "user_name": "17200000357",
+    "password": "12qwaszx",
+    "member_level": "SILVER",
+    "rights_id": "BIRTHDAY_PRESENT",
+    "parent_rights_id": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "no_verify": {
+    "user_name": "17050000005",
+    "password": "12qwaszx",
+    "member_level": "NOVICE",
+    "rights_id": "BIRTHDAY_PRESENT",
+    "parent_rights_id": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "no_idcard_verify": {
+    "user_name": "17564550194",
+    "password": "12qwaszx",
+    "member_level": "NOVICE",
+    "rights_id": "BIRTHDAY_PRESENT",
+    "parent_rights_id": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "get_birth_before": {
+    "user_name": "17200000357",
+    "password": "12qwaszx",
+    "member_level": "NOVICE",
+    "rights_id": "BIRTHDAY_PRESENT",
+    "parent_rights_id": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "get_birth_after": {
+    "user_name": "18537196619",
+    "password": "12qwaszx",
+    "member_level": "NOVICE",
+    "rights_id": "BIRTHDAY_PRESENT",
+    "parent_rights_id": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

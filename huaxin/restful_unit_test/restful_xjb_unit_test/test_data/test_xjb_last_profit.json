@@ -1,0 +1,13 @@
+{
+  "xjb_profit": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "page_no": "1",
+    "page_size": "20",
+    "apkind":"143",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

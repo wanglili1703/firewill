@@ -1,0 +1,11 @@
+{
+  "test_vip_product_detail": {
+    "user_name": "17200000245",
+    "password": "12qwaszx",
+    "product_id": "H9#F90028",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "novice_citic": {
+    "user_name": "17200000170",
+    "password": "12qwaszx",
+    "member_level": "NOVICE",
+    "rights_id": "CITIC_JOINT_GOLD_CARD",
+    "parent_rights_id": "CITIC_JOINT_CARD",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "silver_citic": {
+    "user_name": "17200000170",
+    "password": "12qwaszx",
+    "member_level": "SILVER",
+    "rights_id": "CITIC_JOINT_GOLD_CARD",
+    "parent_rights_id": "CITIC_JOINT_CARD",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "gold_citic": {
+    "user_name": "17200000170",
+    "password": "12qwaszx",
+    "member_level": "GOLD",
+    "rights_id": "CITIC_JOINT_GOLD_CARD",
+    "parent_rights_id": "CITIC_JOINT_CARD",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "platinum_citic": {
+    "user_name": "17200000170",
+    "password": "12qwaszx",
+    "member_level": "PLATINUM",
+    "rights_id": "CITIC_JOINT_GOLD_CARD",
+    "parent_rights_id": "CITIC_JOINT_CARD",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "diamond_citic": {
+    "user_name": "17200000170",
+    "password": "12qwaszx",
+    "member_level": "DIAMOND",
+    "rights_id": "CITIC_JOINT_GOLD_CARD",
+    "parent_rights_id": "CITIC_JOINT_CARD",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

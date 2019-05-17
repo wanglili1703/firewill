@@ -1,0 +1,28 @@
+{
+  "I_modify_mobile_check_info": {
+    "user_name": "15000203080",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "F_modify_mobile_check_info": {
+    "user_name": "13636680021",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "S_modify_mobile_check_info": {
+    "user_name": "13996849881",
+    "password": "12qwaszx",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

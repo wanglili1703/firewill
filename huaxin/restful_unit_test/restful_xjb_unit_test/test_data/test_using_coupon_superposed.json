@@ -1,0 +1,35 @@
+{
+  "bond_fund_using_equity_fund_coupon": {
+    "user_name": "13501000091",
+    "password": "12qwaszx",
+    "product_id": "05#0000002",
+    "pay_type": "0",
+    "pay_amount": "400",
+    "prod_type_scope_val": "'2#0'",
+    "coupon_batch_id": "62",
+    "trade_password": "135790",
+    "is_successful": "false",
+    "ecard_no": "",
+    "assert_info": {
+      "returnCode": "013050",
+      "returnMsg": "积分抵扣失败，请联系电话XXXXXX"
+    }
+  },
+
+  "bond_fund_coupon_superposed": {
+    "user_name": "13501000091",
+    "password": "12qwaszx",
+    "product_id": "05#0000002",
+    "pay_type": "0",
+    "pay_amount": "2000",
+    "prod_type_scope_val": "'2#2'",
+    "coupon_batch_id": "15",
+    "trade_password": "135790",
+    "is_successful": "true",
+    "ecard_no": "",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

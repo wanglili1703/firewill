@@ -1,0 +1,109 @@
+{
+  "one_part_redeem_face_value_1": {
+    "user_name": "17300001130",
+    "password": "12qwaszx",
+    "product_ids": "899#S20068",
+    "redeem_amts": "100",
+    "trade_password":"258036",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "one_part_redeem_face_value_100": {
+    "user_name": "17300001130",
+    "password": "12qwaszx",
+    "product_ids": "899#S20069",
+    "redeem_amts": "1000",
+    "trade_password":"258036",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "one_redeem_lower_than_min_hold": {
+    "user_name": "17300001131",
+    "password": "12qwaszx",
+    "product_ids": "899#S20068",
+    "redeem_amts": "180000",
+    "trade_password":"258036",
+    "assert_info": {
+      "returnCode": "014040",
+      "returnMsg": "取回后剩余本金需不小于50000元,请修改取回本金或全部取回"
+    }
+  },
+
+  "one_all_redeem": {
+    "user_name": "17300001132",
+    "password": "12qwaszx",
+    "product_ids": "899#S20068",
+    "redeem_amts": "200000",
+    "trade_password":"258036",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "more_than_one_all_redeem": {
+    "user_name": "17300001133",
+    "password": "12qwaszx",
+    "product_ids": "899#S20068,899#S20069",
+    "redeem_amts": "20000,20000",
+    "trade_password":"258036",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "more_than_one_all_part_redeem": {
+    "user_name": "17300001129",
+    "password": "12qwaszx",
+    "product_ids": "899#S20068,899#S20069",
+    "redeem_amts": "1000,10000",
+    "trade_password":"258036",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+
+  "more_than_one_all_redeem_one_lower_min_hold_one_part": {
+    "user_name": "17300001134",
+    "password": "12qwaszx",
+    "product_ids": "899#S20068,899#S20069",
+    "redeem_amts": "180000,20000",
+    "trade_password":"258036",
+    "assert_info": {
+      "returnCode": "014040",
+      "returnMsg": "定活宝赎回校验: 变现后剩余本金需不小于50000元,请修改变现本金或全部变现"
+    }
+  },
+
+  "more_than_one_all_redeem_one_lower_min_hold_one_all": {
+    "user_name": "17300001134",
+    "password": "12qwaszx",
+    "product_ids": "899#S20068,899#S20069",
+    "redeem_amts": "180000,20000",
+    "trade_password":"258036",
+    "assert_info": {
+      "returnCode": "014040",
+      "returnMsg": "定活宝赎回校验: 变现后剩余本金需不小于50000元,请修改变现本金或全部变现"
+    }
+  },
+
+  "more_than_one_all_redeem_one_not_enough": {
+    "user_name": "17300001134",
+    "password": "12qwaszx",
+    "product_ids": "899#S20068,899#S20069",
+    "redeem_amts": "250000,20000",
+    "trade_password":"258036",
+    "assert_info": {
+      "returnCode": "013031",
+      "returnMsg": "余额不足，请修改购买金额或更换支付方式"
+    }
+  }
+}

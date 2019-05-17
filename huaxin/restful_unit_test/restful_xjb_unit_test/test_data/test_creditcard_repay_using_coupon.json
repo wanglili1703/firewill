@@ -1,0 +1,12 @@
+{
+  "repay_using_coupon": {
+    "user_name": "17200000242",
+    "password": "12qwaszx",
+    "amt": "10",
+    "trade_password": "135790",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

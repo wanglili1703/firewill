@@ -1,0 +1,48 @@
+{
+  "all_product": {
+  "user_name": "17200000338",
+  "password": "12qwaszx",
+  "keyword": "restful",
+  "assert_info": {
+    "returnCode": "000000",
+    "returnMsg": ""
+  }
+},
+  "dqb_product": {
+    "user_name": "17200000338",
+    "password": "12qwaszx",
+    "keyword": "定期宝",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "vip_product": {
+    "user_name": "17200000338",
+    "password": "12qwaszx",
+    "keyword": "高端",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "fund_product": {
+    "user_name": "17200000338",
+    "password": "12qwaszx",
+    "keyword": "长安货币基金A",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "result_is_null": {
+    "user_name": "17200000338",
+    "password": "12qwaszx",
+    "keyword": "99999",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+
+}

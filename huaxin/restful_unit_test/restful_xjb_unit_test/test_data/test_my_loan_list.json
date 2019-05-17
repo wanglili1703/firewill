@@ -1,0 +1,32 @@
+{
+  "no_access_to_loan": {
+    "user_name": "13501000072",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "is_history": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "history_pledge_info": {
+    "user_name": "13501000101",
+    "password": "12qwaszx",
+    "product_id": "H9#H90023",
+    "is_history": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "before_pledge_start_date": {
+    "user_name": "13501000102",
+    "password": "12qwaszx",
+    "product_id": "H9#H90024",
+    "is_history": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

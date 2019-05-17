@@ -1,0 +1,12 @@
+{
+  "successful": {
+    "user_name": "13501000077",
+    "password": "12qwaszx",
+    "trade_password": "135790",
+    "is_successful": "true",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

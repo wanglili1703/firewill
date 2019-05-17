@@ -1,0 +1,137 @@
+{
+  "points_subscribe_fund": {
+    "user_name": "13501000099",
+    "password": "12qwaszx",
+    "product_id": "39#0L0006",
+    "amt": "120",
+    "points": "",
+    "is_use_points": "1",
+    "trade_password": "135790",
+    "product_status": "认购",
+    "product_type": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "points_subscribe_dqb": {
+    "user_name": "13501000099",
+    "password": "12qwaszx",
+    "product_id": "899#SG5004",
+    "amt": "101",
+    "points": "",
+    "is_use_points": "1",
+    "trade_password": "135790",
+    "product_status": "认购",
+    "product_type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "points_yy_subscribe_vip": {
+    "user_name": "13501000099",
+    "password": "12qwaszx",
+    "product_id": "H9#H90020",
+    "amt": "101",
+    "points": "",
+    "is_use_points": "1",
+    "trade_password": "135790",
+    "product_status": "预约认购",
+    "product_type": "3",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "points_subscribe_vip": {
+    "user_name": "13501000099",
+    "password": "12qwaszx",
+    "product_id": "H9#H90021",
+    "amt": "101",
+    "points": "",
+    "is_use_points": "1",
+    "trade_password": "135790",
+    "product_status": "认购",
+    "product_type": "3",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "points_yy_subscribe_dqb": {
+    "user_name": "13501000100",
+    "password": "12qwaszx",
+    "product_id": "899#SG5005",
+    "amt": "102",
+    "points": "",
+    "is_use_points": "1",
+    "trade_password": "135790",
+    "product_status": "预约认购",
+    "product_type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "risk_not_match": {
+    "user_name": "13501000100",
+    "password": "12qwaszx",
+    "product_id": "17#000960",
+    "amt": "1003",
+    "points": "",
+    "is_use_points": "1",
+    "trade_password": "135790",
+    "product_status": "申购",
+    "product_type": "2",
+    "assert_info": {
+      "returnCode": "081602",
+      "returnMsg": "hxxjb://alert?title="
+    }
+  },
+  "points_not_support": {
+    "user_name": "13501000100",
+    "password": "12qwaszx",
+    "product_id": "05#050033",
+    "amt": "1003",
+    "points": "",
+    "is_use_points": "1",
+    "trade_password": "135790",
+    "product_status": "申购",
+    "product_type": "2",
+    "assert_info": {
+      "returnCode": "013050",
+      "returnMsg": "积分抵扣失败，请联系电话XXXXXX"
+    }
+  },
+  "points_buy_fund": {
+    "user_name": "13501000100",
+    "password": "12qwaszx",
+    "product_id": "39#0L0002",
+    "amt": "1003",
+    "points": "",
+    "is_use_points": "1",
+    "trade_password": "135790",
+    "product_status": "申购",
+    "product_type": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "points_buy_vip": {
+    "user_name": "13501000100",
+    "password": "12qwaszx",
+    "product_id": "H9#H90022",
+    "amt": "104",
+    "points": "",
+    "is_use_points": "1",
+    "trade_password": "135790",
+    "product_status": "申购",
+    "product_type": "3",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

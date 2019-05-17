@@ -1,0 +1,20 @@
+{
+  "salary_plan_protocol": {
+    "user_name": "13501000106",
+    "password": "12qwaszx",
+    "type": "0",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "salary_df_protocol": {
+    "user_name": "13501000106",
+    "password": "12qwaszx",
+    "type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}

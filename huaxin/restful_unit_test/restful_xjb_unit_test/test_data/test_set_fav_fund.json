@@ -1,0 +1,28 @@
+{
+ "test_fund_add_fav_list": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "object_ids":"27#002939",
+    "fav_type":"0",
+    "is_successful": "true",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "add_deff_fund": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "object_ids":"05#A09201",
+    "fav_type":"0",
+    "is_successful": "true",
+    "assert_info": {"returnCode": "000000", "returnMsg": ""}
+  },
+
+  "event_if_false": {
+    "user_name": "18931006600",
+    "password": "1234abcd",
+    "object_ids":"05#050004",
+    "fav_type":"3",
+    "is_successful": "false",
+    "assert_info": {"returnCode": "081613", "returnMsg": "自选已存在"}
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "11": {
+    "user_name": "17200000348",
+    "password": "12qwaszx",
+    "function_type": "11",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "41": {
+    "user_name": "17200000348",
+    "password": "12qwaszx",
+    "function_type": "41",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "42": {
+    "user_name": "17200000348",
+    "password": "12qwaszx",
+    "function_type": "42",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "43": {
+    "user_name": "17200000348",
+    "password": "12qwaszx",
+    "function_type": "43",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "44": {
+    "user_name": "17200000348",
+    "password": "12qwaszx",
+    "function_type": "44",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+
+}

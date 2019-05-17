@@ -1,0 +1,32 @@
+{
+  "sf_chart_info_month": {
+    "user_name": "17200000166",
+    "password": "12qwaszx",
+    "fund_id": "27#001468",
+    "type": "1",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "sf_chart_info_quarter": {
+    "user_name": "17200000166",
+    "password": "12qwaszx",
+    "fund_id": "27#001468",
+    "type": "2",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  },
+  "sf_chart_info_year": {
+    "user_name": "17200000166",
+    "password": "12qwaszx",
+    "fund_id": "27#001468",
+    "type": "3",
+    "assert_info": {
+      "returnCode": "000000",
+      "returnMsg": ""
+    }
+  }
+}
